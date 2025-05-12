@@ -1,0 +1,2964 @@
+[
+    {
+        "page": "page_1.jpg",
+        "content": [
+            {
+                "label": "abandon",
+                "coordinates": [
+                    123,
+                    88,
+                    2198,
+                    356
+                ],
+                "confidence": 0.8944323062896729,
+                "extracted_text": "\u2014\u2014\u00a5\n\nA\n\ncPe\u20ac\n\nwWSHelet SHN2l Sle WiSeleta SLUlY (ACPC), A\u00b082Id\n\nAdmission Committee for Professional Courses\n(ACPC), Gujarat"
+            },
+            {
+                "label": "title",
+                "coordinates": [
+                    260,
+                    410,
+                    2029,
+                    599
+                ],
+                "confidence": 0.9439482688903809,
+                "extracted_text": "ONLINE REGISTRATION PROCESS STEPS FOR\nDDCET EXAM for Diploma to Degree ADMISSION"
+            },
+            {
+                "label": "plain text",
+                "coordinates": [
+                    185,
+                    635,
+                    2015,
+                    711
+                ],
+                "confidence": 0.9008991718292236,
+                "extracted_text": "Visit to the Admission Committee website: https: //gujacpc.admissions.nic.in"
+            },
+            {
+                "label": "abandon",
+                "coordinates": [
+                    149,
+                    752,
+                    313,
+                    956
+                ],
+                "confidence": 0.38418176770210266,
+                "extracted_text": ""
+            },
+            {
+                "label": "figure",
+                "coordinates": [
+                    149,
+                    752,
+                    313,
+                    956
+                ],
+                "confidence": 0.23286625742912292,
+                "extracted_text": ""
+            },
+            {
+                "label": "abandon",
+                "coordinates": [
+                    1794,
+                    769,
+                    2167,
+                    896
+                ],
+                "confidence": 0.6269421577453613,
+                "extracted_text": "Fr coursing Services\n\nSimplifying The Admission Process"
+            },
+            {
+                "label": "plain text",
+                "coordinates": [
+                    741,
+                    774,
+                    1578,
+                    924
+                ],
+                "confidence": 0.8959037065505981,
+                "extracted_text": "Directorate of Technical Education,\nAdmission Committee for Professional\nCourses (ACPC), Gujarat"
+            },
+            {
+                "label": "plain text",
+                "coordinates": [
+                    808,
+                    932,
+                    1297,
+                    967
+                ],
+                "confidence": 0.7927361130714417,
+                "extracted_text": "ACPC Gujarat - Common Registration."
+            },
+            {
+                "label": "figure_caption",
+                "coordinates": [
+                    166,
+                    995,
+                    268,
+                    1027
+                ],
+                "confidence": 0.4122906029224396,
+                "extracted_text": "#@ Home"
+            },
+            {
+                "label": "plain text",
+                "coordinates": [
+                    166,
+                    995,
+                    268,
+                    1027
+                ],
+                "confidence": 0.20728722214698792,
+                "extracted_text": "#@ Home"
+            },
+            {
+                "label": "title",
+                "coordinates": [
+                    1352,
+                    1113,
+                    1778,
+                    1158
+                ],
+                "confidence": 0.9210695624351501,
+                "extracted_text": "Important Instructions"
+            },
+            {
+                "label": "title",
+                "coordinates": [
+                    479,
+                    1113,
+                    1028,
+                    1160
+                ],
+                "confidence": 0.6705078482627869,
+                "extracted_text": "Registered Candidates Sign-In"
+            },
+            {
+                "label": "figure",
+                "coordinates": [
+                    214,
+                    1204,
+                    1270,
+                    1899
+                ],
+                "confidence": 0.5673090815544128,
+                "extracted_text": "Counselling ACPC Gujarat - Common Registration\n\n \n\n \n\nUser Id\nPassword\n\nSecurity Pin (case sensitive)\n\nSecurity Pin 3 96549G S\n\nNew Candidate Registrati"
+            },
+            {
+                "label": "plain text",
+                "coordinates": [
+                    1352,
+                    1240,
+                    2095,
+                    1620
+                ],
+                "confidence": 0.6556084752082825,
+                "extracted_text": "Confidentiality of Password is solely responsibility of the\ncandidate and all care must be taken to protect the password.\n\nFor security reasons, after finishing your work, kindly click the\nLOGOUT button and close all the windows related to your\nsession.\n\nCandidates are advised to keep changing the Password at\nfrequent intervals.\n\nNever share your password and do not respond to any mail whic!\nasks you for your Login-ID/Password."
+            },
+            {
+                "label": "plain text",
+                "coordinates": [
+                    1360,
+                    1243,
+                    2064,
+                    1310
+                ],
+                "confidence": 0.7659509181976318,
+                "extracted_text": "= Confidentiality of Password is solely responsibility of the\ncandidate and all care must be taken to protect the password."
+            },
+            {
+                "label": "plain text",
+                "coordinates": [
+                    1358,
+                    1334,
+                    2058,
+                    1433
+                ],
+                "confidence": 0.3908919394016266,
+                "extracted_text": "= For security reasons, after finishing your work, kindly click the\nLOGOUT button and close all the windows related to your\nsession."
+            },
+            {
+                "label": "plain text",
+                "coordinates": [
+                    1359,
+                    1460,
+                    2018,
+                    1525
+                ],
+                "confidence": 0.6356975436210632,
+                "extracted_text": "= Candidates are advised to keep changing the Password at\nfrequent intervals."
+            },
+            {
+                "label": "plain text",
+                "coordinates": [
+                    1358,
+                    1552,
+                    2109,
+                    1618
+                ],
+                "confidence": 0.38594475388526917,
+                "extracted_text": "= Never share your password and do not respond to any mail which\nasks you for your Login-ID/Password."
+            },
+            {
+                "label": "plain text",
+                "coordinates": [
+                    1341,
+                    1820,
+                    2048,
+                    1892
+                ],
+                "confidence": 0.6863089799880981,
+                "extracted_text": "Caution: Your IP address is being monitored for\nsecurity purpose."
+            },
+            {
+                "label": "plain text",
+                "coordinates": [
+                    1064,
+                    1973,
+                    1232,
+                    2009
+                ],
+                "confidence": 0.5042164921760559,
+                "extracted_text": "Forgot User Id"
+            },
+            {
+                "label": "plain text",
+                "coordinates": [
+                    204,
+                    2277,
+                    2060,
+                    2727
+                ],
+                "confidence": 0.588726818561554,
+                "extracted_text": "e Click on NEW CANDIDATE REGISTRATION button.\n\ne If you have already registered then enter USER ID & PASSWORD and proceed\nfurther.\n\ne After Clicking on the NEW CANDIDATE REGISTRATION button you will\n\nbe redirected to the page as shown below."
+            },
+            {
+                "label": "plain text",
+                "coordinates": [
+                    217,
+                    2277,
+                    1564,
+                    2346
+                ],
+                "confidence": 0.28333374857902527,
+                "extracted_text": "e Click on NEW CANDIDATE REGISTRATION button."
+            },
+            {
+                "label": "plain text",
+                "coordinates": [
+                    223,
+                    2372,
+                    2054,
+                    2531
+                ],
+                "confidence": 0.4723130166530609,
+                "extracted_text": "\u00bb If you have already registered then enter USER ID & PASSWORD and proceed\nfurther."
+            },
+            {
+                "label": "plain text",
+                "coordinates": [
+                    218,
+                    2559,
+                    2054,
+                    2724
+                ],
+                "confidence": 0.48036834597587585,
+                "extracted_text": "\u00ae After Clicking on the NEW CANDIDATE REGISTRATION button you will\n\nbe redirected to the page as shown below."
+            },
+            {
+                "label": "abandon",
+                "coordinates": [
+                    2147,
+                    3180,
+                    2178,
+                    3215
+                ],
+                "confidence": 0.30955350399017334,
+                "extracted_text": ""
+            },
+            {
+                "label": "abandon",
+                "coordinates": [
+                    2148,
+                    3181,
+                    2178,
+                    3215
+                ],
+                "confidence": 0.26922184228897095,
+                "extracted_text": ""
+            }
+        ]
+    },
+    {
+        "page": "page_2.jpg",
+        "content": [
+            {
+                "label": "title",
+                "coordinates": [
+                    660,
+                    119,
+                    1652,
+                    186
+                ],
+                "confidence": 0.7050861120223999,
+                "extracted_text": "wWSHelet SHN2l Sle WiSeleta SLUlY (ACPC), A\u00b082Id"
+            },
+            {
+                "label": "abandon",
+                "coordinates": [
+                    1963,
+                    143,
+                    2155,
+                    330
+                ],
+                "confidence": 0.5494083166122437,
+                "extracted_text": ""
+            },
+            {
+                "label": "abandon",
+                "coordinates": [
+                    151,
+                    149,
+                    306,
+                    326
+                ],
+                "confidence": 0.6925804615020752,
+                "extracted_text": "P"
+            },
+            {
+                "label": "title",
+                "coordinates": [
+                    591,
+                    208,
+                    1727,
+                    346
+                ],
+                "confidence": 0.803443968296051,
+                "extracted_text": "Admission Committee for Professional Courses\n(ACPC), Gujarat"
+            },
+            {
+                "label": "figure",
+                "coordinates": [
+                    139,
+                    411,
+                    2145,
+                    1511
+                ],
+                "confidence": 0.5653840899467468,
+                "extracted_text": "Commissioner of Technical Education, Admission Committee for\nProfessional Courses (ACPC), Gujarat\n\nACPC Gujarat Common Registration 2023 (UAT Mode)\n\n \n\nSign Up Form\n\nCandidate Name DOB\nabc 01 v February (02) v\nISD Code Mobile No Email Id\n\nIndia (91) v Mobile Number ey Email Id\n\nRequired Field ?\n\nChoose your User Id and Password\nUser Id Choose your Password Confirm Password\n\nChoose your passv\n\n \n\nord as per password policy Confirm Password\n\nSecurity Pin (case sensitive) Security Pin\n\nseconty DKS5B1)\n\nVerification of Mobile Number OR Email Address is mandatory to get registered successfully.\n\n2010"
+            },
+            {
+                "label": "plain text",
+                "coordinates": [
+                    446,
+                    435,
+                    1763,
+                    532
+                ],
+                "confidence": 0.3818449378013611,
+                "extracted_text": "Commissioner of Technical Education, Admission Committee for\nProfessional Courses (ACPC), Gujarat"
+            },
+            {
+                "label": "plain text",
+                "coordinates": [
+                    440,
+                    435,
+                    1771,
+                    574
+                ],
+                "confidence": 0.20948350429534912,
+                "extracted_text": "Commissioner of Technical Education, Admission Committee for\nProfessional Courses (ACPC), Gujarat\nACPC Gujarat Common Registration 2023 (UAT Mode)"
+            },
+            {
+                "label": "plain text",
+                "coordinates": [
+                    777,
+                    538,
+                    1434,
+                    574
+                ],
+                "confidence": 0.36208057403564453,
+                "extracted_text": "ACPC Gujarat Common Registration 2023 (UAT Mode)"
+            },
+            {
+                "label": "figure",
+                "coordinates": [
+                    154,
+                    622,
+                    2073,
+                    1469
+                ],
+                "confidence": 0.3010759949684143,
+                "extracted_text": "Candidate Name\n\nabc\n\nISD Code\n\nIndia (91)\n\nChoose your User Id and Password\n\nUser Id\n\nSecurity Pin (case sensitive)\n\nSecurity Pin\n\nSign Up Form\n\n01 v February (02) v 2010 v\n\nMobile No Email Id\n\nMobile Number ) Email Id a\n\nRequired Field ?\n\nChoose your Password Confirm Password\n\nChoose your password as per password policy Confirm Password\n\nSecurity Pin\n\nDK OS"
+            },
+            {
+                "label": "plain text",
+                "coordinates": [
+                    204,
+                    1674,
+                    2066,
+                    2687
+                ],
+                "confidence": 0.7774084210395813,
+                "extracted_text": "Enter your name as per qualifying examination (Diploma Engineering/Diploma\nPharmacy/Diploma Hotel and Tourism Management) in Candidate Name.\n\nChoose ISD Code : for India (India (91)) (enter correct code as mobile will be\n\nverified)\n\nEnter Mobile number (Ten digit number e.g. 9999999999)\n\nEnter your valid email address (e.g. = =@gmail.comor \u2014\u2014\u2014\u2014s @yahoo.co.in\netc.)\n\n. Create your own User Id. In case the User Id is not available the portal will display\na message. Y ou need to choose an alternate User Id immediately.\n\n. Create your own password and then enter the Security PIN as shown in the image.\nFinally Click on the SUBMIT button."
+            },
+            {
+                "label": "plain text",
+                "coordinates": [
+                    233,
+                    1675,
+                    2057,
+                    1837
+                ],
+                "confidence": 0.3649529218673706,
+                "extracted_text": ". Enter your name as per qualifying examination (Diploma Engineering/Diploma\n\nPharmacy/Diploma Hotel and Tourism Management) in Candidate Name."
+            },
+            {
+                "label": "plain text",
+                "coordinates": [
+                    233,
+                    1862,
+                    2056,
+                    2021
+                ],
+                "confidence": 0.29430875182151794,
+                "extracted_text": ". Choose ISD Code : for India (India (91)) (enter correct code as mobile will be\n\nverified)"
+            },
+            {
+                "label": "plain text",
+                "coordinates": [
+                    249,
+                    2051,
+                    1563,
+                    2120
+                ],
+                "confidence": 0.21037434041500092,
+                "extracted_text": "Enter Mobile number (Ten digit number e.g. 9999999999)"
+            },
+            {
+                "label": "plain text",
+                "coordinates": [
+                    231,
+                    2143,
+                    2052,
+                    2304
+                ],
+                "confidence": 0.34200334548950195,
+                "extracted_text": "\u00bb Enter your valid email address (e.g.\netc.)\n\n@gmail.com or | __ @yahoo.co.in"
+            },
+            {
+                "label": "plain text",
+                "coordinates": [
+                    228,
+                    2331,
+                    2052,
+                    2495
+                ],
+                "confidence": 0.3374934792518616,
+                "extracted_text": "\u00bb Create your own User Id. In case the User Id is not available the portal will display\n\na message. Y ou need to choose an alternate User Id immediately."
+            },
+            {
+                "label": "plain text",
+                "coordinates": [
+                    467,
+                    2520,
+                    2000,
+                    2590
+                ],
+                "confidence": 0.20768465101718903,
+                "extracted_text": "our own password and then enter the Security PIN as shown in the imac"
+            },
+            {
+                "label": "plain text",
+                "coordinates": [
+                    467,
+                    2738,
+                    2001,
+                    2810
+                ],
+                "confidence": 0.5673742890357971,
+                "extracted_text": "and Password will remain same throughout the admission process"
+            },
+            {
+                "label": "abandon",
+                "coordinates": [
+                    2147,
+                    3180,
+                    2179,
+                    3215
+                ],
+                "confidence": 0.5176709294319153,
+                "extracted_text": ""
+            },
+            {
+                "label": "abandon",
+                "coordinates": [
+                    2148,
+                    3181,
+                    2178,
+                    3215
+                ],
+                "confidence": 0.22555218636989594,
+                "extracted_text": ""
+            }
+        ]
+    },
+    {
+        "page": "page_3.jpg",
+        "content": [
+            {
+                "label": "title",
+                "coordinates": [
+                    659,
+                    120,
+                    1652,
+                    186
+                ],
+                "confidence": 0.7439428567886353,
+                "extracted_text": "wWSHelet SHN2l Sle WiSeleta SLUlY (ACPC), A\u00b082Id"
+            },
+            {
+                "label": "abandon",
+                "coordinates": [
+                    1964,
+                    143,
+                    2154,
+                    329
+                ],
+                "confidence": 0.3424164950847626,
+                "extracted_text": ""
+            },
+            {
+                "label": "figure",
+                "coordinates": [
+                    1964,
+                    143,
+                    2154,
+                    329
+                ],
+                "confidence": 0.2566656768321991,
+                "extracted_text": ""
+            },
+            {
+                "label": "abandon",
+                "coordinates": [
+                    151,
+                    149,
+                    306,
+                    327
+                ],
+                "confidence": 0.7115825414657593,
+                "extracted_text": "P"
+            },
+            {
+                "label": "title",
+                "coordinates": [
+                    591,
+                    208,
+                    1727,
+                    346
+                ],
+                "confidence": 0.7973573207855225,
+                "extracted_text": "Admission Committee for Professional Courses\n(ACPC), Gujarat"
+            },
+            {
+                "label": "plain text",
+                "coordinates": [
+                    238,
+                    409,
+                    2058,
+                    538
+                ],
+                "confidence": 0.8897395133972168,
+                "extracted_text": "After Clicking on SUBMIT button you will be redirected to next page as shown\nbelow"
+            },
+            {
+                "label": "figure",
+                "coordinates": [
+                    221,
+                    660,
+                    2221,
+                    1447
+                ],
+                "confidence": 0.8595517873764038,
+                "extracted_text": "Sn\nReview Page - Sign Up Form\n\nReview the following particulars carefully. If you would like to change any particulars entered,\nyou may do so by pressing \u2018EDIT\u2019 button or press SUBMITbutton for final submission.\n\nSign Up Details\n\nCandidate Name Date of Birth\nabc 01-02-2010\nMobile No Email Id\nWUIGRIEROOX ROAAKKANK\n\nAccount Details\n\nYour Password (Not shown due to security reasons)\n\nFinal Submit\n\nVerification of Mobile Number OR Email Address is mandatory to get registered successfully.\n\nUser Id abexyz"
+            },
+            {
+                "label": "plain text",
+                "coordinates": [
+                    219,
+                    1533,
+                    2059,
+                    1787
+                ],
+                "confidence": 0.6816576719284058,
+                "extracted_text": "\u00bb Window will ask you to review your entered details - If it is correct then click on\nFinal Submit button otherwise press Edit button and modify your details and click\non final submit button."
+            },
+            {
+                "label": "plain text",
+                "coordinates": [
+                    239,
+                    1814,
+                    2049,
+                    2069
+                ],
+                "confidence": 0.6974197626113892,
+                "extracted_text": "After Clicking on the FINAL SUBMIT BUTTON - Software will proceed with\nthe mobile number verification, OTP will be sent to the number which you have\nprovided. The OTP will be valid for 15 Minutes. Y ou have to submit the OTP."
+            },
+            {
+                "label": "figure",
+                "coordinates": [
+                    273,
+                    2092,
+                    2222,
+                    3023
+                ],
+                "confidence": 0.8672810196876526,
+                "extracted_text": "Verification of Mobile Number is mandatory to get registered successfully.\n\nSystem has sent One Time Password (OTP) on your mobile no. 991****960\n\nNote: If you did not receive the OTP, you can resend the OTP by clicking on \u2018RESEND OTP' link.\n\nSecurity Pin (case sensitive)\n\nSecurity Pin"
+            },
+            {
+                "label": "abandon",
+                "coordinates": [
+                    2148,
+                    3180,
+                    2179,
+                    3214
+                ],
+                "confidence": 0.8167302012443542,
+                "extracted_text": ""
+            }
+        ]
+    },
+    {
+        "page": "page_4.jpg",
+        "content": [
+            {
+                "label": "title",
+                "coordinates": [
+                    659,
+                    119,
+                    1653,
+                    186
+                ],
+                "confidence": 0.7824974060058594,
+                "extracted_text": "wWSHelet SHN2l Sle WiSeleta SLUlY (ACPC), A\u00b082Id"
+            },
+            {
+                "label": "abandon",
+                "coordinates": [
+                    1963,
+                    143,
+                    2154,
+                    330
+                ],
+                "confidence": 0.3601742684841156,
+                "extracted_text": ""
+            },
+            {
+                "label": "figure",
+                "coordinates": [
+                    1963,
+                    143,
+                    2154,
+                    330
+                ],
+                "confidence": 0.252540647983551,
+                "extracted_text": ""
+            },
+            {
+                "label": "abandon",
+                "coordinates": [
+                    150,
+                    149,
+                    307,
+                    327
+                ],
+                "confidence": 0.6729050278663635,
+                "extracted_text": ""
+            },
+            {
+                "label": "title",
+                "coordinates": [
+                    591,
+                    207,
+                    1728,
+                    346
+                ],
+                "confidence": 0.8748722672462463,
+                "extracted_text": "Admission Committee for Professional Courses\n(ACPC), Gujarat"
+            },
+            {
+                "label": "plain text",
+                "coordinates": [
+                    217,
+                    502,
+                    2062,
+                    856
+                ],
+                "confidence": 0.33429598808288574,
+                "extracted_text": "e Enter the OTP and Security pin and then click on the VERIFY & FINAL\nSUBMIT button. (SAVE your USER ID for future reference\n\ne You will receive the confirmation message for creation of user profile with ID on\n\n \n\nthe registered mobile number."
+            },
+            {
+                "label": "plain text",
+                "coordinates": [
+                    235,
+                    505,
+                    2053,
+                    670
+                ],
+                "confidence": 0.6728017926216125,
+                "extracted_text": "- Enter the OTP and Security pin and then click on the VERIFY & FINAL\nSUBMIT button. (SAVE your USER ID for future reference)"
+            },
+            {
+                "label": "plain text",
+                "coordinates": [
+                    234,
+                    695,
+                    2055,
+                    857
+                ],
+                "confidence": 0.6912779808044434,
+                "extracted_text": "- You will receive the confirmation message for creation of user profile with ID on\n\nthe registered mobile number."
+            },
+            {
+                "label": "title",
+                "coordinates": [
+                    151,
+                    896,
+                    250,
+                    930
+                ],
+                "confidence": 0.3357278108596802,
+                "extracted_text": "@ Home"
+            },
+            {
+                "label": "title",
+                "coordinates": [
+                    956,
+                    1068,
+                    1359,
+                    1119
+                ],
+                "confidence": 0.8798043131828308,
+                "extracted_text": "User Id: xKXOXRKXX"
+            },
+            {
+                "label": "plain text",
+                "coordinates": [
+                    907,
+                    1163,
+                    1365,
+                    1209
+                ],
+                "confidence": 0.7145712971687317,
+                "extracted_text": "Candidate Name : BXxNKXx"
+            },
+            {
+                "label": "title",
+                "coordinates": [
+                    907,
+                    1163,
+                    1365,
+                    1209
+                ],
+                "confidence": 0.21661578118801117,
+                "extracted_text": "Candidate Name : BXxNKXx"
+            },
+            {
+                "label": "plain text",
+                "coordinates": [
+                    661,
+                    1267,
+                    1587,
+                    1395
+                ],
+                "confidence": 0.901856541633606,
+                "extracted_text": "You have successfully completed Registration.\nPlease note down the UserID shown above for future references.\nComplete your profile."
+            },
+            {
+                "label": "plain text",
+                "coordinates": [
+                    879,
+                    1507,
+                    1370,
+                    1553
+                ],
+                "confidence": 0.6529605388641357,
+                "extracted_text": "Click to Login and Complete Profile"
+            },
+            {
+                "label": "title",
+                "coordinates": [
+                    249,
+                    1727,
+                    1935,
+                    1798
+                ],
+                "confidence": 0.7784010171890259,
+                "extracted_text": "Now click on the CLICK TO LOGIN & COMPLETE PROFILE button"
+            },
+            {
+                "label": "plain text",
+                "coordinates": [
+                    253,
+                    1830,
+                    1388,
+                    1896
+                ],
+                "confidence": 0.4603918194770813,
+                "extracted_text": "Y ou will be redirected to the page as shown below"
+            },
+            {
+                "label": "title",
+                "coordinates": [
+                    253,
+                    1830,
+                    1388,
+                    1896
+                ],
+                "confidence": 0.4157925546169281,
+                "extracted_text": "Y ou will be redirected to the page as shown below"
+            },
+            {
+                "label": "title",
+                "coordinates": [
+                    1327,
+                    1988,
+                    1725,
+                    2033
+                ],
+                "confidence": 0.7903056144714355,
+                "extracted_text": "Important Instructions"
+            },
+            {
+                "label": "title",
+                "coordinates": [
+                    520,
+                    1988,
+                    1031,
+                    2036
+                ],
+                "confidence": 0.6024074554443359,
+                "extracted_text": "Registered Candidates Sign-In"
+            },
+            {
+                "label": "plain text",
+                "coordinates": [
+                    1335,
+                    2120,
+                    1987,
+                    2190
+                ],
+                "confidence": 0.2661018967628479,
+                "extracted_text": "= Confidentiality of Password is solely responsibility of the\ncandidate and all care must be taken to protect the password."
+            },
+            {
+                "label": "plain text",
+                "coordinates": [
+                    1331,
+                    2120,
+                    2001,
+                    2507
+                ],
+                "confidence": 0.22334125638008118,
+                "extracted_text": "Confidentiality of Password is solely responsibility of the\ncandidate and all care must be taken to protect the password.\n\nFor security reasons, after finishing your work, kindly click the\nLOGOUT button and close all the windows related to your\nsession.\n\nCandidates are advised to keep changing the Password at\nfrequent intervals.\n\nNever share your password and do not respond to any mail whi\nasks you for your Login-ID/Password."
+            },
+            {
+                "label": "abandon",
+                "coordinates": [
+                    2147,
+                    3180,
+                    2180,
+                    3213
+                ],
+                "confidence": 0.7261530160903931,
+                "extracted_text": ""
+            }
+        ]
+    },
+    {
+        "page": "page_5.jpg",
+        "content": [
+            {
+                "label": "title",
+                "coordinates": [
+                    659,
+                    120,
+                    1652,
+                    186
+                ],
+                "confidence": 0.7984004020690918,
+                "extracted_text": "wWSHelet SHN2l Sle WiSeleta SLUlY (ACPC), A\u00b082Id"
+            },
+            {
+                "label": "abandon",
+                "coordinates": [
+                    1964,
+                    143,
+                    2152,
+                    328
+                ],
+                "confidence": 0.5078504681587219,
+                "extracted_text": ""
+            },
+            {
+                "label": "abandon",
+                "coordinates": [
+                    151,
+                    150,
+                    307,
+                    325
+                ],
+                "confidence": 0.6364455819129944,
+                "extracted_text": "ACPE\u20ac"
+            },
+            {
+                "label": "title",
+                "coordinates": [
+                    593,
+                    208,
+                    1727,
+                    346
+                ],
+                "confidence": 0.6306858658790588,
+                "extracted_text": "Admission Committee for Professional Courses\n(ACPC), Gujarat"
+            },
+            {
+                "label": "title",
+                "coordinates": [
+                    592,
+                    208,
+                    1727,
+                    346
+                ],
+                "confidence": 0.3011365830898285,
+                "extracted_text": "Admission Committee for Professional Courses\n(ACPC), Gujarat"
+            },
+            {
+                "label": "plain text",
+                "coordinates": [
+                    207,
+                    410,
+                    2055,
+                    787
+                ],
+                "confidence": 0.9499119520187378,
+                "extracted_text": "e Login to the portal by entering the User Id (you have created), Password (you have\nset) and security PIN as shown below it.\n\ne After Login you will see the screen as shown below.\n\ne You will see all the available courses like DDCTE Exam, B.E./B.Tech,\nB.Pharma/D.Pharma, MBA/MCA, Diploma To Degree Engineering,\nME/M.Tech/M.Pharm."
+            },
+            {
+                "label": "plain text",
+                "coordinates": [
+                    1494,
+                    831,
+                    1988,
+                    877
+                ],
+                "confidence": 0.6057845950126648,
+                "extracted_text": "Name: abc User Id: abcxyz"
+            },
+            {
+                "label": "figure",
+                "coordinates": [
+                    646,
+                    901,
+                    2020,
+                    1866
+                ],
+                "confidence": 0.2276095449924469,
+                "extracted_text": "Dashboard\n\n   \n\nMy Application\n\nACPC Gujarat Diploma to Degree Common Entrance Test 2024\n(D2DCET)\n\nApplication Schedule From : 12/03/2023 To : 30/08/2024\n\nSecurity Pin Complete Your Personal Details\n(case sensitive)\n\nSecurity \u2019 J73MCI\n\nPin\n\noC"
+            },
+            {
+                "label": "title",
+                "coordinates": [
+                    1222,
+                    935,
+                    1410,
+                    980
+                ],
+                "confidence": 0.5600403547286987,
+                "extracted_text": "Dashboard"
+            },
+            {
+                "label": "title",
+                "coordinates": [
+                    165,
+                    938,
+                    401,
+                    982
+                ],
+                "confidence": 0.7952713370323181,
+                "extracted_text": "Profile Section"
+            },
+            {
+                "label": "table",
+                "coordinates": [
+                    165,
+                    1010,
+                    562,
+                    1477
+                ],
+                "confidence": 0.2627449333667755,
+                "extracted_text": "View Registration\nDetails\n\nPersonal Details\nContact Detail\n\nUpload\nDocuments/Images\n\nView Profile"
+            },
+            {
+                "label": "title",
+                "coordinates": [
+                    671,
+                    1045,
+                    859,
+                    1101
+                ],
+                "confidence": 0.43647709488868713,
+                "extracted_text": "Apply For"
+            },
+            {
+                "label": "title",
+                "coordinates": [
+                    934,
+                    1045,
+                    1221,
+                    1101
+                ],
+                "confidence": 0.41489583253860474,
+                "extracted_text": "My Application"
+            },
+            {
+                "label": "plain text",
+                "coordinates": [
+                    670,
+                    1158,
+                    1957,
+                    1264
+                ],
+                "confidence": 0.3616124093532562,
+                "extracted_text": "ACPC Gujarat Diploma to Degree Common Entrance Test 2024\n(D2DCET)"
+            },
+            {
+                "label": "plain text",
+                "coordinates": [
+                    673,
+                    1276,
+                    1637,
+                    1323
+                ],
+                "confidence": 0.34292909502983093,
+                "extracted_text": "Application Schedule From : 12/03/2023 To : 30/08/2024"
+            },
+            {
+                "label": "figure",
+                "coordinates": [
+                    678,
+                    1365,
+                    1986,
+                    1857
+                ],
+                "confidence": 0.2561679780483246,
+                "extracted_text": "Security Pin\n\n \n\n(case sensitive)\n\nSecurity\nPin\n\nComplete Your Personal Details"
+            },
+            {
+                "label": "title",
+                "coordinates": [
+                    215,
+                    1936,
+                    1533,
+                    2001
+                ],
+                "confidence": 0.6971514225006104,
+                "extracted_text": "e Click on Profile Section and enter your personal details"
+            },
+            {
+                "label": "figure_caption",
+                "coordinates": [
+                    215,
+                    1936,
+                    1533,
+                    2001
+                ],
+                "confidence": 0.20514944195747375,
+                "extracted_text": "e Click on Profile Section and enter your personal details"
+            },
+            {
+                "label": "figure",
+                "coordinates": [
+                    143,
+                    2037,
+                    2052,
+                    2976
+                ],
+                "confidence": 0.7152643799781799,
+                "extracted_text": "View Registration Details\n\n> Contact Detail\n* Upload Documents/images\n\n* View Profile\n\nPersonal Details\n\nCandidate Name as per SSC mark sheet\nFather Name\n\nMother Name\n\nDate of Birth\n\nGender\n\nNationality\n\nDomicile\n\nCategory\n\nSub Category Details\n\nPhysically Handicapped\nEX/IN Serviceman\nTuition Fee Waiver\n\nPercentage of Disability\n\nOther Information\n\nFamily Annual Income\n\nFree Ship Card\n\n \n\nCaan oa"
+            },
+            {
+                "label": "table",
+                "coordinates": [
+                    143,
+                    2037,
+                    2052,
+                    2976
+                ],
+                "confidence": 0.26729169487953186,
+                "extracted_text": "View Registration Details\n\n> Contact Detail\n* Upload Documents/images\n\n* View Profile\n\nPersonal Details\n\nCandidate Name as per SSC mark sheet\nFather Name\n\nMother Name\n\nDate of Birth\n\nGender\n\nNationality\n\nDomicile\n\nCategory\n\nSub Category Details\n\nPhysically Handicapped\nEX/IN Serviceman\nTuition Fee Waiver\n\nPercentage of Disability\n\nOther Information\n\nFamily Annual Income\n\nFree Ship Card\n\n \n\nCaan oa"
+            },
+            {
+                "label": "title",
+                "coordinates": [
+                    136,
+                    3016,
+                    536,
+                    3078
+                ],
+                "confidence": 0.809086799621582,
+                "extracted_text": "Personal Details:"
+            },
+            {
+                "label": "abandon",
+                "coordinates": [
+                    2147,
+                    3180,
+                    2178,
+                    3214
+                ],
+                "confidence": 0.6960875391960144,
+                "extracted_text": ""
+            }
+        ]
+    },
+    {
+        "page": "page_6.jpg",
+        "content": [
+            {
+                "label": "title",
+                "coordinates": [
+                    594,
+                    118,
+                    1725,
+                    346
+                ],
+                "confidence": 0.2207617461681366,
+                "extracted_text": "wWSHelet SHN2l Sle WiSeleta SLUlY (ACPC), A\u00b082Id\n\nAdmission Committee for Professional Courses\n(ACPC), Gujarat"
+            },
+            {
+                "label": "title",
+                "coordinates": [
+                    659,
+                    120,
+                    1652,
+                    187
+                ],
+                "confidence": 0.4786188006401062,
+                "extracted_text": "wWSHelet SHN2l Sle WiSeleta SLUlY (ACPC), A\u00b082Id"
+            },
+            {
+                "label": "plain text",
+                "coordinates": [
+                    659,
+                    120,
+                    1652,
+                    187
+                ],
+                "confidence": 0.2630836069583893,
+                "extracted_text": "wWSHelet SHN2l Sle WiSeleta SLUlY (ACPC), A\u00b082Id"
+            },
+            {
+                "label": "figure",
+                "coordinates": [
+                    1963,
+                    143,
+                    2153,
+                    330
+                ],
+                "confidence": 0.32118651270866394,
+                "extracted_text": ""
+            },
+            {
+                "label": "abandon",
+                "coordinates": [
+                    1963,
+                    143,
+                    2153,
+                    330
+                ],
+                "confidence": 0.2607542872428894,
+                "extracted_text": ""
+            },
+            {
+                "label": "abandon",
+                "coordinates": [
+                    151,
+                    149,
+                    307,
+                    327
+                ],
+                "confidence": 0.42392459511756897,
+                "extracted_text": "P"
+            },
+            {
+                "label": "figure",
+                "coordinates": [
+                    151,
+                    149,
+                    307,
+                    327
+                ],
+                "confidence": 0.26437291502952576,
+                "extracted_text": "P"
+            },
+            {
+                "label": "title",
+                "coordinates": [
+                    591,
+                    207,
+                    1728,
+                    346
+                ],
+                "confidence": 0.6701096296310425,
+                "extracted_text": "Admission Committee for Professional Courses\n(ACPC), Gujarat"
+            },
+            {
+                "label": "plain text",
+                "coordinates": [
+                    157,
+                    409,
+                    2055,
+                    548
+                ],
+                "confidence": 0.9476718306541443,
+                "extracted_text": "e Enter your name, Father Name, Mother Name, Date of Birth, Select the Gender and\nSelect your NATIONALITY and your State."
+            },
+            {
+                "label": "title",
+                "coordinates": [
+                    137,
+                    589,
+                    375,
+                    653
+                ],
+                "confidence": 0.88019198179245,
+                "extracted_text": "Category:"
+            },
+            {
+                "label": "plain text",
+                "coordinates": [
+                    162,
+                    681,
+                    2056,
+                    895
+                ],
+                "confidence": 0.9547006487846375,
+                "extracted_text": "e General /General-EWS /Schedule Caste (SC) /Schedule Tribe (ST) / Socially and\nEducationally Backward Class (SEBC) (For the category other than General Y ou\nneed to upload relevant documents as provided in the section of document uploading"
+            },
+            {
+                "label": "title",
+                "coordinates": [
+                    137,
+                    930,
+                    653,
+                    999
+                ],
+                "confidence": 0.8232438564300537,
+                "extracted_text": "Sub Category Details:"
+            },
+            {
+                "label": "plain text",
+                "coordinates": [
+                    158,
+                    1027,
+                    2057,
+                    1240
+                ],
+                "confidence": 0.9463409185409546,
+                "extracted_text": "e Physically Handicapped: Yes/No - The Candidate needs to have more than 40% of\nPhysical Disability certificate issued by Civil Surgeon and the same needs to be\nuploaded in the document uploading section."
+            },
+            {
+                "label": "plain text",
+                "coordinates": [
+                    161,
+                    1274,
+                    2057,
+                    1558
+                ],
+                "confidence": 0.9564056396484375,
+                "extracted_text": "\u00bb In-Servicemen / Ex-Servicemen: Yes/No - The Candidate needs to upload the\nserving certificate of father/mother who is serving in Defence services for in\nserviceman. The Candidate needs to upload the certificate of father/mother issued by\nDistrict Sainik Welfare board for ex - serviceman."
+            },
+            {
+                "label": "plain text",
+                "coordinates": [
+                    162,
+                    1593,
+                    2056,
+                    1865
+                ],
+                "confidence": 0.9587603211402893,
+                "extracted_text": "e Tuition Fee Waiver: Yes/No - The candidate who is willing to avail benefits of\nTFW scheme should have family income of less than 8 Lakh. The candidate needs\nto upload the valid income certificate issued by the Government as mentioned in the\ndocument uploading section."
+            },
+            {
+                "label": "title",
+                "coordinates": [
+                    137,
+                    1898,
+                    597,
+                    1961
+                ],
+                "confidence": 0.8882578611373901,
+                "extracted_text": "Other Information:"
+            },
+            {
+                "label": "plain text",
+                "coordinates": [
+                    213,
+                    1995,
+                    2055,
+                    2128
+                ],
+                "confidence": 0.62062668800354,
+                "extracted_text": "e Family Annual Income: The candidate needs to enter the annual family income\nhere in INR."
+            },
+            {
+                "label": "plain text",
+                "coordinates": [
+                    204,
+                    1995,
+                    2061,
+                    2352
+                ],
+                "confidence": 0.3761821389198303,
+                "extracted_text": "e Family Annual Income: The candidate needs to enter the annual family income\nhere in INR.\ne Free Ship Card: If you belong to SC or ST Category and Family Income is less\nthan 2.5 Lakh then select the Y ES option.\nClick on the SAVE & NEXT button."
+            },
+            {
+                "label": "plain text",
+                "coordinates": [
+                    225,
+                    2138,
+                    2055,
+                    2352
+                ],
+                "confidence": 0.2554362416267395,
+                "extracted_text": "\u00bb Free Ship Card: If you belong to SC or ST Category and Family Income is less\nthan 2.5 Lakh then select the Y ES option.\nClick on the SAVE & NEXT button."
+            },
+            {
+                "label": "plain text",
+                "coordinates": [
+                    677,
+                    2284,
+                    1556,
+                    2351
+                ],
+                "confidence": 0.308013379573822,
+                "extracted_text": "Click on the SAVE & NEXT button."
+            },
+            {
+                "label": "title",
+                "coordinates": [
+                    136,
+                    2357,
+                    743,
+                    2422
+                ],
+                "confidence": 0.6282504796981812,
+                "extracted_text": "View/ Edit contact details"
+            },
+            {
+                "label": "plain text",
+                "coordinates": [
+                    136,
+                    2357,
+                    743,
+                    2422
+                ],
+                "confidence": 0.26022669672966003,
+                "extracted_text": "View/ Edit contact details"
+            },
+            {
+                "label": "plain text",
+                "coordinates": [
+                    209,
+                    2453,
+                    2056,
+                    2662
+                ],
+                "confidence": 0.798300564289093,
+                "extracted_text": "e Correspondence Address - The candidate needs to enter his current residential\naddress here. The candidate can also provide alternate email addresses and mobile\nnumbers."
+            },
+            {
+                "label": "plain text",
+                "coordinates": [
+                    205,
+                    2454,
+                    2055,
+                    2881
+                ],
+                "confidence": 0.24163930118083954,
+                "extracted_text": "e Correspondence Address - The candidate needs to enter his current residential\naddress here. The candidate can also provide alternate email addresses and mobile\nnumbers.\n\ne Permanent Address - The candidate needs to enter his permanent residential\naddress here. The candidate can also choose the same as correspondence address\nif both are same."
+            },
+            {
+                "label": "plain text",
+                "coordinates": [
+                    213,
+                    2671,
+                    2055,
+                    2879
+                ],
+                "confidence": 0.8148877024650574,
+                "extracted_text": "e Permanent Address - The candidate needs to enter his permanent residential\naddress here. The candidate can also choose the same as correspondence address\nif both are same."
+            },
+            {
+                "label": "abandon",
+                "coordinates": [
+                    2146,
+                    3180,
+                    2180,
+                    3214
+                ],
+                "confidence": 0.7581443786621094,
+                "extracted_text": ""
+            }
+        ]
+    },
+    {
+        "page": "page_7.jpg",
+        "content": [
+            {
+                "label": "title",
+                "coordinates": [
+                    660,
+                    120,
+                    1652,
+                    186
+                ],
+                "confidence": 0.7303319573402405,
+                "extracted_text": "wWSHelet SHN2l Sle WiSeleta SLUlY (ACPC), A\u00b082Id"
+            },
+            {
+                "label": "abandon",
+                "coordinates": [
+                    1964,
+                    143,
+                    2155,
+                    329
+                ],
+                "confidence": 0.5908538103103638,
+                "extracted_text": ""
+            },
+            {
+                "label": "abandon",
+                "coordinates": [
+                    151,
+                    150,
+                    306,
+                    325
+                ],
+                "confidence": 0.7398661375045776,
+                "extracted_text": "ACPE\u20ac"
+            },
+            {
+                "label": "title",
+                "coordinates": [
+                    593,
+                    208,
+                    1727,
+                    345
+                ],
+                "confidence": 0.7962828874588013,
+                "extracted_text": "Admission Committee for Professional Courses\n(ACPC), Gujarat"
+            },
+            {
+                "label": "title",
+                "coordinates": [
+                    137,
+                    410,
+                    1020,
+                    474
+                ],
+                "confidence": 0.8515787124633789,
+                "extracted_text": "View/Edit Upload Documents/Images"
+            },
+            {
+                "label": "figure",
+                "coordinates": [
+                    164,
+                    515,
+                    2044,
+                    1245
+                ],
+                "confidence": 0.6053972244262695,
+                "extracted_text": "Preview of Upload Documents/Images\n\nS.No.\n1\n\n2\n\nDocument Type\nPhotograph\n\nSignature\n\nDate of Birth/School Leaving Certificate\n\nDocument Specifications\n\nDocument Format: jpg\nMin Size (KB): 10\nMax Size (KB): 100\n\nDocument Format: jpg\nMin Size (KB): 10\nMax Size (KB): 200\n\nDocument Format: pdf\nMin Size (KB): 10\nMax Size (KB): 200\n\nDocument Number\n\n[NA\n\nNA\n\nfo]\n\nPREVIOUS Submit and Preview\n\nUpload\n\nPhoto jpg\n\n  \n\n26347,jpg\n; NAME\n\nChoose file | School leavin...pressed.pdf"
+            },
+            {
+                "label": "table",
+                "coordinates": [
+                    164,
+                    515,
+                    2044,
+                    1245
+                ],
+                "confidence": 0.3535979986190796,
+                "extracted_text": "Preview of Upload Documents/Images\n\nS.No.\n1\n\n2\n\nDocument Type\nPhotograph\n\nSignature\n\nDate of Birth/School Leaving Certificate\n\nDocument Specifications\n\nDocument Format: jpg\nMin Size (KB): 10\nMax Size (KB): 100\n\nDocument Format: jpg\nMin Size (KB): 10\nMax Size (KB): 200\n\nDocument Format: pdf\nMin Size (KB): 10\nMax Size (KB): 200\n\nDocument Number\n\n[NA\n\nNA\n\nfo]\n\nPREVIOUS Submit and Preview\n\nUpload\n\nPhoto jpg\n\n  \n\n26347,jpg\n; NAME\n\nChoose file | School leavin...pressed.pdf"
+            },
+            {
+                "label": "plain text",
+                "coordinates": [
+                    204,
+                    1312,
+                    2056,
+                    1783
+                ],
+                "confidence": 0.8780167698860168,
+                "extracted_text": "(a) Photograph: Upload recent passport size photograph in jpg format. Size of\nphotograph should be 10KB to 100KB.\n\n(b) Signature: Upload signature in .jpg format. Size of photograph should be 10KB\nto 200KB.\n\n(c) Birth certificate / School leaving certificate: Upload birth certificate/school\nleaving certificate in format of .pdf format. Size of file should be 10KB to\n200KB. (Document Number will be the GR Number)"
+            },
+            {
+                "label": "title",
+                "coordinates": [
+                    599,
+                    1815,
+                    1588,
+                    1886
+                ],
+                "confidence": 0.7334747910499573,
+                "extracted_text": "Click on SUBMIT & PREVIEW Button"
+            },
+            {
+                "label": "plain text",
+                "coordinates": [
+                    599,
+                    1815,
+                    1588,
+                    1886
+                ],
+                "confidence": 0.21952396631240845,
+                "extracted_text": "Click on SUBMIT & PREVIEW Button"
+            },
+            {
+                "label": "figure",
+                "coordinates": [
+                    200,
+                    1980,
+                    2004,
+                    3012
+                ],
+                "confidence": 0.8004724383354187,
+                "extracted_text": "S.No.\n\nn\n\nRequired Document\n\nPhotograph\n\nSignature\n\nDate of Birth/School Leaving Certificate\n\nPreview\n\nFile Name: Photo jpg\nDocument Number: NA\n\nClick Here For Large View\n\nFile Name: 26347,jpg\nDocument Number: NA\n\ng ignalure\n\nClick Here For Large View\n\n \n\n \n\nFile Name: School leaving compressed.pdf\nDocument Number: 11\n\n \n\n\u2018coxriKare\n\n \n\nClick Here For Large View\n\n \n\n \n\nCheck & Verify\n\nGseif verified\n\nSelf Verified\n\nseit Verified"
+            }
+        ]
+    },
+    {
+        "page": "page_8.jpg",
+        "content": [
+            {
+                "label": "title",
+                "coordinates": [
+                    659,
+                    120,
+                    1652,
+                    186
+                ],
+                "confidence": 0.7369700074195862,
+                "extracted_text": "wWSHelet SHN2l Sle WiSeleta SLUlY (ACPC), A\u00b082Id"
+            },
+            {
+                "label": "abandon",
+                "coordinates": [
+                    1964,
+                    144,
+                    2154,
+                    329
+                ],
+                "confidence": 0.38023653626441956,
+                "extracted_text": ""
+            },
+            {
+                "label": "figure",
+                "coordinates": [
+                    1964,
+                    144,
+                    2154,
+                    329
+                ],
+                "confidence": 0.27250146865844727,
+                "extracted_text": ""
+            },
+            {
+                "label": "abandon",
+                "coordinates": [
+                    150,
+                    149,
+                    307,
+                    326
+                ],
+                "confidence": 0.6317552328109741,
+                "extracted_text": ""
+            },
+            {
+                "label": "title",
+                "coordinates": [
+                    591,
+                    208,
+                    1727,
+                    346
+                ],
+                "confidence": 0.7950530648231506,
+                "extracted_text": "Admission Committee for Professional Courses\n(ACPC), Gujarat"
+            },
+            {
+                "label": "plain text",
+                "coordinates": [
+                    136,
+                    409,
+                    1883,
+                    479
+                ],
+                "confidence": 0.8170697689056396,
+                "extracted_text": "Click on check box in Check & verify column and click on save and Next."
+            },
+            {
+                "label": "plain text",
+                "coordinates": [
+                    137,
+                    515,
+                    789,
+                    581
+                ],
+                "confidence": 0.8314335346221924,
+                "extracted_text": "Y our profile will be shown."
+            },
+            {
+                "label": "plain text",
+                "coordinates": [
+                    136,
+                    615,
+                    1305,
+                    682
+                ],
+                "confidence": 0.811192512512207,
+                "extracted_text": "Save your APPLICATION NO for future reference."
+            },
+            {
+                "label": "plain text",
+                "coordinates": [
+                    134,
+                    714,
+                    2048,
+                    850
+                ],
+                "confidence": 0.9046950936317444,
+                "extracted_text": "Enter the security Pin shown and Click on Click Here to Apply in the option ACPC\nGujarat Diploma to Degree Common Entrance Test 2024 (DDCET)"
+            },
+            {
+                "label": "plain text",
+                "coordinates": [
+                    1727,
+                    889,
+                    2165,
+                    932
+                ],
+                "confidence": 0.6882393956184387,
+                "extracted_text": "Name: abc User Id: abcxyz"
+            },
+            {
+                "label": "figure",
+                "coordinates": [
+                    175,
+                    960,
+                    2169,
+                    1713
+                ],
+                "confidence": 0.4055585265159607,
+                "extracted_text": "Apply For My Application\n\nACPC Gujarat Diploma to Degree Common Entrance Test 2024 (D2DCET)\nApplication Schedule From : 12/03/2023 To : 30/08/2024\n\nSecurity Pin (case Click Here to Apply\n\na sensitive)\n\nSecurity Pin 64K3F5.\n\n \n\n \n\na )"
+            },
+            {
+                "label": "figure",
+                "coordinates": [
+                    187,
+                    961,
+                    2160,
+                    1719
+                ],
+                "confidence": 0.3648746907711029,
+                "extracted_text": "Apply For My Application\n\nACPC Gujarat Diploma to Degree Common Entrance Test 2024 (D2DCET)\nApplication Schedule From : 12/03/2023 To : 30/08/2024\n\nSecurity Pin (case Click Here to Apply\n\na sensitive)\n\nSecurity Pin 64K3F5.\n\n \n\n \n\nQ ."
+            },
+            {
+                "label": "title",
+                "coordinates": [
+                    1090,
+                    982,
+                    1255,
+                    1024
+                ],
+                "confidence": 0.5488495826721191,
+                "extracted_text": "Dashboard"
+            },
+            {
+                "label": "title",
+                "coordinates": [
+                    438,
+                    1078,
+                    686,
+                    1126
+                ],
+                "confidence": 0.5014498233795166,
+                "extracted_text": "My Application"
+            },
+            {
+                "label": "plain text",
+                "coordinates": [
+                    438,
+                    1078,
+                    686,
+                    1126
+                ],
+                "confidence": 0.20315960049629211,
+                "extracted_text": "My Application"
+            },
+            {
+                "label": "title",
+                "coordinates": [
+                    209,
+                    1079,
+                    370,
+                    1126
+                ],
+                "confidence": 0.3974379301071167,
+                "extracted_text": "Apply For"
+            },
+            {
+                "label": "plain text",
+                "coordinates": [
+                    215,
+                    1794,
+                    1441,
+                    1859
+                ],
+                "confidence": 0.8168661594390869,
+                "extracted_text": "e You will see many details which are still incomplete."
+            },
+            {
+                "label": "table",
+                "coordinates": [
+                    248,
+                    1975,
+                    2070,
+                    2890
+                ],
+                "confidence": 0.4477226138114929,
+                "extracted_text": "Application Progress Status\n\n \n\nStep Status\nRegistration Form \u00a9 Completed\nApplication Form \u00a9 Incomplete\n\nQualification Details \u00a9 Incomplete\nExam Center Details \u00a9 Incomplete\nContact Detail \u00a9 Incomplete\nUpload Documents/Images \u00a9 Incomplete\nFinal Submit \u00a9 Incomplete\nPay Registration Fee @ Incomplete\nYou have successfully Registered.\nPlease note down the Application Number for future references.\nApplication Number: 241190900012\nKindly, fill all the Forms to complete the Application Process."
+            },
+            {
+                "label": "figure",
+                "coordinates": [
+                    248,
+                    1975,
+                    2070,
+                    2890
+                ],
+                "confidence": 0.26887860894203186,
+                "extracted_text": "Application Progress Status\n\n \n\nStep Status\nRegistration Form \u00a9 Completed\nApplication Form \u00a9 Incomplete\n\nQualification Details \u00a9 Incomplete\nExam Center Details \u00a9 Incomplete\nContact Detail \u00a9 Incomplete\nUpload Documents/Images \u00a9 Incomplete\nFinal Submit \u00a9 Incomplete\nPay Registration Fee @ Incomplete\nYou have successfully Registered.\nPlease note down the Application Number for future references.\nApplication Number: 241190900012\nKindly, fill all the Forms to complete the Application Process."
+            },
+            {
+                "label": "table",
+                "coordinates": [
+                    249,
+                    1977,
+                    2065,
+                    2607
+                ],
+                "confidence": 0.28464046120643616,
+                "extracted_text": "Application Progress Status\n\nStep Status\nRegistration Form \u00a9 Completed\nApplication Form \u00a9 Incomplete\n\nQualification Details \u00a9 Incomplete\nExam Center Details \u00a9 Incomplete\nContact Detail \u00a9 Incomplete\nUpload Documents/Images \u00a9 Incomplete\nFinal Submit \u00a9 Incomplete\n\nPay Registration Fee @ Incomplete"
+            },
+            {
+                "label": "plain text",
+                "coordinates": [
+                    217,
+                    2948,
+                    1658,
+                    3014
+                ],
+                "confidence": 0.7333788871765137,
+                "extracted_text": "e Now Click on the APPLICATION FORM button (Left Side)"
+            },
+            {
+                "label": "abandon",
+                "coordinates": [
+                    2147,
+                    3180,
+                    2180,
+                    3213
+                ],
+                "confidence": 0.8084291815757751,
+                "extracted_text": ""
+            }
+        ]
+    },
+    {
+        "page": "page_9.jpg",
+        "content": [
+            {
+                "label": "title",
+                "coordinates": [
+                    660,
+                    120,
+                    1651,
+                    186
+                ],
+                "confidence": 0.63522869348526,
+                "extracted_text": "wWsSMHelet SH?2l $l2 Wiseleta SLULY (ACPC), Avec"
+            },
+            {
+                "label": "figure",
+                "coordinates": [
+                    1964,
+                    144,
+                    2157,
+                    329
+                ],
+                "confidence": 0.32966500520706177,
+                "extracted_text": ""
+            },
+            {
+                "label": "abandon",
+                "coordinates": [
+                    1964,
+                    144,
+                    2157,
+                    329
+                ],
+                "confidence": 0.3261580467224121,
+                "extracted_text": ""
+            },
+            {
+                "label": "abandon",
+                "coordinates": [
+                    151,
+                    150,
+                    306,
+                    326
+                ],
+                "confidence": 0.7379970550537109,
+                "extracted_text": "ACPE\u20ac"
+            },
+            {
+                "label": "title",
+                "coordinates": [
+                    591,
+                    208,
+                    1727,
+                    346
+                ],
+                "confidence": 0.5445579290390015,
+                "extracted_text": "Admission Committee for Professional Courses\n(ACPC), Gujarat"
+            },
+            {
+                "label": "title",
+                "coordinates": [
+                    270,
+                    409,
+                    1793,
+                    476
+                ],
+                "confidence": 0.7613084316253662,
+                "extracted_text": "Select the course applying for which (BE/BT ech or B. Pharmacy)"
+            },
+            {
+                "label": "title",
+                "coordinates": [
+                    249,
+                    409,
+                    1800,
+                    476
+                ],
+                "confidence": 0.3352375626564026,
+                "extracted_text": "Select the course applying for which (BE/BT ech or B. Pharmacy)"
+            },
+            {
+                "label": "title",
+                "coordinates": [
+                    288,
+                    489,
+                    609,
+                    521
+                ],
+                "confidence": 0.44733908772468567,
+                "extracted_text": "Jan 22 2024 2:262M"
+            },
+            {
+                "label": "plain text",
+                "coordinates": [
+                    1701,
+                    490,
+                    2199,
+                    524
+                ],
+                "confidence": 0.6568024158477783,
+                "extracted_text": "Name: Bcce Application No.: 241190900020"
+            },
+            {
+                "label": "figure",
+                "coordinates": [
+                    776,
+                    550,
+                    2202,
+                    994
+                ],
+                "confidence": 0.45242807269096375,
+                "extracted_text": "es) aes\n\n \n\nSerial Number Apply For\n\n \n\n \n\nBE/B.Tech\nB.Pharmacy"
+            },
+            {
+                "label": "table",
+                "coordinates": [
+                    282,
+                    552,
+                    732,
+                    1077
+                ],
+                "confidence": 0.8962684273719788,
+                "extracted_text": "DT hs1e (Bee AU leo}\n\u00a9 View Registration Form\n\n\u00a9 View/Edit Application Form\n\n\u00a9 Apply For\n\n\u00a9 Qualification Details\n\n \n\n\u00a9 Exam Center List\n\n\u00a9 Contact Detail\n\n\u00a9 Upload Documents/Images\n\u00a9 Preview & Final Submit\n\n\u00a9 Pay Registration Fee"
+            },
+            {
+                "label": "plain text",
+                "coordinates": [
+                    223,
+                    1159,
+                    2060,
+                    1360
+                ],
+                "confidence": 0.94145667552948,
+                "extracted_text": "\u00bb Diploma Engineering candidate can select the course BE/BTech and Diploma\nPharmacy candidate can select the course B.Pharmacy course at the time of\napplication."
+            },
+            {
+                "label": "figure",
+                "coordinates": [
+                    686,
+                    1478,
+                    2183,
+                    2179
+                ],
+                "confidence": 0.753403902053833,
+                "extracted_text": "Qualification Details\n\n \n\nDiploma Details\nPassing Status Passing Month Passing Year\nAppearing --Select-- 2024\nEnrollment No/Seat No/PNR No Board/University Branch\nVITTITA GTU Aeronautical Engineering\nQualification Exam State Institute Name\nAndaman And Nicobar Islands abc\n\n \n\n \n\n \n\ndss] U sy Sy Wa"
+            },
+            {
+                "label": "figure",
+                "coordinates": [
+                    146,
+                    1478,
+                    2183,
+                    2188
+                ],
+                "confidence": 0.2904539406299591,
+                "extracted_text": "Available Services Qualification Details\n\n\u00a9 View Registration Form\n\n \n\nDiploma Details\n\u00a9 View/Edit Application Form\n\nPassing Status Passing Month Passing Year\n\u00a9 Qualification Details\nAppearing --Select-- 2024\n\n\u00a9 Exam Center Details\n\nEnrollment No/Seat No/PNR No Board/University Branch\n\u00a9 Contact Detail\nVITTITA GTU Aeronautical Engineering\n\u00a9 Upload Documents/Images\nQualification Exam State Institute Name\n\u00a9 Preview & Final Submit :\nAndaman And Nicobar Islands abc\n\n\u00a9 Pay Registration Fee\n\nVerify Mobile No. & Email Id PREVIOUS\n\nGA pepchikdl: atone tie rented"
+            },
+            {
+                "label": "title",
+                "coordinates": [
+                    166,
+                    1496,
+                    396,
+                    1530
+                ],
+                "confidence": 0.7508525848388672,
+                "extracted_text": "Available Services"
+            },
+            {
+                "label": "title",
+                "coordinates": [
+                    166,
+                    2100,
+                    522,
+                    2136
+                ],
+                "confidence": 0.6579878330230713,
+                "extracted_text": "Verify Mobile No. & Email Id"
+            },
+            {
+                "label": "title",
+                "coordinates": [
+                    136,
+                    2298,
+                    627,
+                    2360
+                ],
+                "confidence": 0.8372189998626709,
+                "extracted_text": "on Details"
+            },
+            {
+                "label": "title",
+                "coordinates": [
+                    137,
+                    2378,
+                    548,
+                    2441
+                ],
+                "confidence": 0.7670226693153381,
+                "extracted_text": "Diploma Details :"
+            },
+            {
+                "label": "plain text",
+                "coordinates": [
+                    129,
+                    2465,
+                    2046,
+                    3050
+                ],
+                "confidence": 0.6854450702667236,
+                "extracted_text": "Passing Status: Select the PASSED/ Appearing option.\n\nPassing Month: Select the PASSING MONTH from the available list.\n\nPassing Y ear: Select the PASSING Y EAR from the available list.\n\nEnrollment No: Enter the Enrollment No.\n\nBoard/ University: Select the Passing Board/ University Name from the available list.\nBranch: Select Diploma Branch.\n\nQualification Exam State: Enter State from the list."
+            },
+            {
+                "label": "plain text",
+                "coordinates": [
+                    133,
+                    2813,
+                    2039,
+                    2966
+                ],
+                "confidence": 0.361306756734848,
+                "extracted_text": "Board/ University: Select the Passing Board/ University Name from the available list.\nBranch: Select Diploma Branch."
+            },
+            {
+                "label": "plain text",
+                "coordinates": [
+                    136,
+                    2990,
+                    1298,
+                    3055
+                ],
+                "confidence": 0.47864511609077454,
+                "extracted_text": "Qualification Exam State: Enter State from the list."
+            },
+            {
+                "label": "abandon",
+                "coordinates": [
+                    2147,
+                    3180,
+                    2179,
+                    3213
+                ],
+                "confidence": 0.8051168918609619,
+                "extracted_text": ""
+            }
+        ]
+    },
+    {
+        "page": "page_10.jpg",
+        "content": [
+            {
+                "label": "title",
+                "coordinates": [
+                    659,
+                    120,
+                    1651,
+                    186
+                ],
+                "confidence": 0.7354962229728699,
+                "extracted_text": "wWsSMHelet SH?2l $l2 Wiseleta SLULY (ACPC), Avec"
+            },
+            {
+                "label": "abandon",
+                "coordinates": [
+                    1965,
+                    144,
+                    2152,
+                    327
+                ],
+                "confidence": 0.3429826498031616,
+                "extracted_text": ""
+            },
+            {
+                "label": "abandon",
+                "coordinates": [
+                    150,
+                    150,
+                    306,
+                    326
+                ],
+                "confidence": 0.5322619080543518,
+                "extracted_text": ""
+            },
+            {
+                "label": "title",
+                "coordinates": [
+                    592,
+                    207,
+                    1727,
+                    346
+                ],
+                "confidence": 0.8048195838928223,
+                "extracted_text": "Admission Committee for Professional Courses\n(ACPC), Gujarat"
+            },
+            {
+                "label": "plain text",
+                "coordinates": [
+                    134,
+                    409,
+                    2056,
+                    547
+                ],
+                "confidence": 0.9289032220840454,
+                "extracted_text": "Institute Name: Enter the name of the diploma Institute from where diploma\npassed/A ppearing."
+            },
+            {
+                "label": "plain text",
+                "coordinates": [
+                    159,
+                    648,
+                    1945,
+                    778
+                ],
+                "confidence": 0.8890038132667542,
+                "extracted_text": "e Click on SAVE & NEXT Button\ne Now you will be redirected to the Exam Center Details page as shown below"
+            },
+            {
+                "label": "figure",
+                "coordinates": [
+                    680,
+                    878,
+                    2109,
+                    1567
+                ],
+                "confidence": 0.45338600873947144,
+                "extracted_text": "Tae alc Ble)\n\nr- Examination City 1\n\n \n\nSelect State Choose Exam City\n\nGujarat \u2019 AHMEDABAD \u2019\n\n \n\n \n\nr- Examination City 2\nSelect State Choose Exam City\n\nGujarat \u2019 ANAND v\n\n \n\nr- Examination City 3\n\n \n\nSelect State Choose Exam City\n\nGujarat \u2019 ARAVALLI \u2019"
+            },
+            {
+                "label": "table",
+                "coordinates": [
+                    680,
+                    878,
+                    2109,
+                    1567
+                ],
+                "confidence": 0.29061219096183777,
+                "extracted_text": "Tae alc Ble)\n\nr- Examination City 1\n\n \n\nSelect State Choose Exam City\n\nGujarat \u2019 AHMEDABAD \u2019\n\n \n\n \n\nr- Examination City 2\nSelect State Choose Exam City\n\nGujarat \u2019 ANAND v\n\n \n\nr- Examination City 3\n\n \n\nSelect State Choose Exam City\n\nGujarat \u2019 ARAVALLI \u2019"
+            },
+            {
+                "label": "title",
+                "coordinates": [
+                    136,
+                    1676,
+                    835,
+                    1738
+                ],
+                "confidence": 0.9049437046051025,
+                "extracted_text": "Examination C enter Deatails:"
+            },
+            {
+                "label": "plain text",
+                "coordinates": [
+                    206,
+                    1775,
+                    1528,
+                    1985
+                ],
+                "confidence": 0.9104533195495605,
+                "extracted_text": "e Select State: Enter Sate\ne Choose Exam City: Enter city from the list\n\nYou need to enter three options according to priority."
+            },
+            {
+                "label": "plain text",
+                "coordinates": [
+                    136,
+                    2088,
+                    1977,
+                    2156
+                ],
+                "confidence": 0.8994890451431274,
+                "extracted_text": "Click on SAVE & NEXT and you will be redirected to the Document Upload page."
+            },
+            {
+                "label": "title",
+                "coordinates": [
+                    136,
+                    2256,
+                    780,
+                    2322
+                ],
+                "confidence": 0.6500544548034668,
+                "extracted_text": "Upload Documents/images:"
+            },
+            {
+                "label": "plain text",
+                "coordinates": [
+                    136,
+                    2256,
+                    780,
+                    2322
+                ],
+                "confidence": 0.30504220724105835,
+                "extracted_text": "Upload Documents/images:"
+            },
+            {
+                "label": "abandon",
+                "coordinates": [
+                    2130,
+                    3179,
+                    2179,
+                    3215
+                ],
+                "confidence": 0.8140607476234436,
+                "extracted_text": ""
+            }
+        ]
+    },
+    {
+        "page": "page_11.jpg",
+        "content": [
+            {
+                "label": "title",
+                "coordinates": [
+                    659,
+                    120,
+                    1652,
+                    185
+                ],
+                "confidence": 0.8267545700073242,
+                "extracted_text": "wWSMelet sH?21 $12 Uldelela SLULY (ACPC), AVI"
+            },
+            {
+                "label": "abandon",
+                "coordinates": [
+                    1964,
+                    144,
+                    2152,
+                    325
+                ],
+                "confidence": 0.5062704086303711,
+                "extracted_text": ""
+            },
+            {
+                "label": "figure",
+                "coordinates": [
+                    1964,
+                    144,
+                    2152,
+                    325
+                ],
+                "confidence": 0.22342826426029205,
+                "extracted_text": ""
+            },
+            {
+                "label": "abandon",
+                "coordinates": [
+                    152,
+                    150,
+                    305,
+                    325
+                ],
+                "confidence": 0.6399484276771545,
+                "extracted_text": "ACPE\u20ac"
+            },
+            {
+                "label": "title",
+                "coordinates": [
+                    593,
+                    208,
+                    1726,
+                    346
+                ],
+                "confidence": 0.8926473259925842,
+                "extracted_text": "Admission Committee for Professional Courses\n(ACPC), Gujarat"
+            },
+            {
+                "label": "figure",
+                "coordinates": [
+                    149,
+                    405,
+                    2165,
+                    1310
+                ],
+                "confidence": 0.20707593858242035,
+                "extracted_text": "PE]\n\n \n\nCe es)\n\n \n\nLast Visit: NA |\n\n   \n\nTE}\n\n \n\nvila\n\n \n\n\u00a9 View Registration Form\n\n\u00a9 View/Edit Application Form\n\n\u00a9 View/Edit Apply For\n\n\u00a9 View/Edit Qualification Details\n\u00a9 View/Edit Exam Center List\n\n\u00a9 View/Edit Contact Detail\n\n\u00a9 Preview & Final Submit\n\n\u00a9 Pay Registration Fee\n\u2014\u2014\u2014\n\nNeal eae\n\n\u00a9 Mobile Number Verified |\n\n\u00a9 Verify Your Email Id\n\n\u00a9 info@jacpeldce.ac.in |\n\n \n\nCommissioner of Technical Education, Admission Committee for\n\nProfessional Courses (ACPC), Gujarat\nACPC Gujarat Diploma to Degree Common Entrance Test 2024 (D2DCET) (UAT Mode)\n\norc)\n\n[Eh comatns Services\n\nSimplifying The Admission Process\n\nPOEM Last Activity Details\n\n| Name: JACPC\n\n   \n\nApplication No.: 241190900019\n\n \n\nS.No. Required Document Document Specifications Document Number/id\n1 Photograph Document Format: JPG NA\nMin Size (KB): 10\nMax Size(KB): 200\n2 Signature Document Format: JPG \u2018NA\nMin Size (KB): 10\nMax Size (KB); 200\n3 Date of Birth Certificate Document Format: PDF NA\nMin Size (KBy: 10\nMax Size (KB): 200\n4 Diploma Latest Marksheet Document Format: PDF\n\nMin Size (KB): 20\nMax Size (KB): 500\n\nPREVIOUS\n\nUpload\nDocument Uploaded\n\nDocument Uploaded\n\nDocument Uploaded\n\n[ Choose File | No file chosen"
+            },
+            {
+                "label": "figure",
+                "coordinates": [
+                    1914,
+                    416,
+                    1974,
+                    471
+                ],
+                "confidence": 0.21376223862171173,
+                "extracted_text": ""
+            },
+            {
+                "label": "plain text",
+                "coordinates": [
+                    707,
+                    417,
+                    1586,
+                    515
+                ],
+                "confidence": 0.30715036392211914,
+                "extracted_text": "Commissioner of Technical Education, Admission Committee fo\nProfessional Courses (ACPC), Gujarat\nACPC Gujarat Diploma to Degree Common Entrance Test 2024 (D2DCET) (UAT Mode)"
+            },
+            {
+                "label": "plain text",
+                "coordinates": [
+                    1626,
+                    523,
+                    2139,
+                    561
+                ],
+                "confidence": 0.23872259259223938,
+                "extracted_text": "le ers) Last Activity Details\n\n \n\nLogout"
+            },
+            {
+                "label": "title",
+                "coordinates": [
+                    171,
+                    577,
+                    302,
+                    604
+                ],
+                "confidence": 0.3817022144794464,
+                "extracted_text": ""
+            },
+            {
+                "label": "plain text",
+                "coordinates": [
+                    1726,
+                    579,
+                    2135,
+                    606
+                ],
+                "confidence": 0.2807214856147766,
+                "extracted_text": "Name: jACPC Application No.: 241190900019"
+            },
+            {
+                "label": "table",
+                "coordinates": [
+                    171,
+                    630,
+                    637,
+                    1036
+                ],
+                "confidence": 0.43123936653137207,
+                "extracted_text": "\u00a9 View Registration Form\n\n\u00a9 View/Edit Application Form\n\n\u00a9 View/Edit Apply For\n\n\u00a9 View/Edit Qualification Details\n\u00a9 View/Edit Exam Center List\n\n\u00a9 View/Edit Contact Detail\n\n\u00a9 Preview & Final Submit\n\n\u00a9 Pay Registration Fee"
+            },
+            {
+                "label": "table",
+                "coordinates": [
+                    174,
+                    1061,
+                    640,
+                    1186
+                ],
+                "confidence": 0.2061992585659027,
+                "extracted_text": "fy Mobile No. & Email Id\n\n\u00a9 Mobile Number Verified\n\n\u00a9 Verify Your Email Id"
+            },
+            {
+                "label": "title",
+                "coordinates": [
+                    180,
+                    1066,
+                    404,
+                    1092
+                ],
+                "confidence": 0.25361278653144836,
+                "extracted_text": "Verify Mobile No. & Email Id"
+            },
+            {
+                "label": "title",
+                "coordinates": [
+                    178,
+                    1218,
+                    271,
+                    1243
+                ],
+                "confidence": 0.6060150265693665,
+                "extracted_text": "Contact Us"
+            },
+            {
+                "label": "plain text",
+                "coordinates": [
+                    175,
+                    1255,
+                    360,
+                    1280
+                ],
+                "confidence": 0.3654492497444153,
+                "extracted_text": "\u00a9 info@jacpeldce.ac.in"
+            },
+            {
+                "label": "plain text",
+                "coordinates": [
+                    211,
+                    1413,
+                    2060,
+                    1687
+                ],
+                "confidence": 0.7845461964607239,
+                "extracted_text": "e To upload documents, write document no. in third column, Click on Choose file\nand upload scan copy of document/ Certificate in fourth column and click on\nPreview & Upload Button in fifth column.\n\ne By clicking on Preview & Upload Button."
+            },
+            {
+                "label": "title",
+                "coordinates": [
+                    230,
+                    1731,
+                    2126,
+                    1796
+                ],
+                "confidence": 0.5876023173332214,
+                "extracted_text": "In this way you will have to upload every document shown in column one as shown."
+            },
+            {
+                "label": "figure",
+                "coordinates": [
+                    322,
+                    1796,
+                    2191,
+                    2666
+                ],
+                "confidence": 0.6278403997421265,
+                "extracted_text": "Failed to load PDF document.\n\nClick Here For Large View\n\n3 Diploma Latest Marksheet 111\n\nsherk apis Cungsd CptQang Bid Kpdargmnd Bogdan GO ofc an emer\nodin\n\n \n\nClick Here For Large View\n\nDeclaration\n\n| hereby declare that all the particulars given by me in this form are true to the best of my knowledge and belief. Any mistake / misinformation, detected at the time of admission or at any stage in future.\nwill result in the cancellation of admission. | have read the information bulletin and understood all the procedures.\n\nSAVE & FINAL SUBMIT"
+            },
+            {
+                "label": "plain text",
+                "coordinates": [
+                    216,
+                    2746,
+                    2056,
+                    2879
+                ],
+                "confidence": 0.8849804997444153,
+                "extracted_text": "e Finally, Cross verify all the details and select on the Declaration option check-box\nand then Click on SAVE & FINAL SUBMIT button."
+            },
+            {
+                "label": "abandon",
+                "coordinates": [
+                    2129,
+                    3179,
+                    2177,
+                    3216
+                ],
+                "confidence": 0.7884472012519836,
+                "extracted_text": "11"
+            }
+        ]
+    },
+    {
+        "page": "page_12.jpg",
+        "content": [
+            {
+                "label": "title",
+                "coordinates": [
+                    659,
+                    120,
+                    1652,
+                    185
+                ],
+                "confidence": 0.8543812036514282,
+                "extracted_text": "wWSMelet sH?21 $12 Uldelela SLULY (ACPC), AVI"
+            },
+            {
+                "label": "abandon",
+                "coordinates": [
+                    1965,
+                    144,
+                    2154,
+                    326
+                ],
+                "confidence": 0.5863463878631592,
+                "extracted_text": ""
+            },
+            {
+                "label": "abandon",
+                "coordinates": [
+                    151,
+                    150,
+                    306,
+                    325
+                ],
+                "confidence": 0.6813469529151917,
+                "extracted_text": "ACPE\u20ac"
+            },
+            {
+                "label": "title",
+                "coordinates": [
+                    593,
+                    208,
+                    1726,
+                    345
+                ],
+                "confidence": 0.890927791595459,
+                "extracted_text": "Admission Committee for Professional Courses\n(ACPC), Gujarat"
+            },
+            {
+                "label": "figure",
+                "coordinates": [
+                    137,
+                    397,
+                    2176,
+                    1309
+                ],
+                "confidence": 0.4298371970653534,
+                "extracted_text": "Commissioner of Technical Education, Admission Committee for Professional Courses (ACPC), Gujarat [Eh mt seve\nACPC Gujarat Diploma to Degree Common Entrance Test 2024 (D2DCET} (UAT Mode)\n\nSimpityeng The Admasnon Frocens\n\n \n\n[ Last visit: jan 1 2024 4-0abM | | Name: CKM Application No.: 241189800010\neras\n\n\u00a9 View Filed Fore sup Status\n\n\u00a9 Pay Registration Fee\nRegistration Form \u00a9 Completed\n\nSe)\n\nApplication Form \u00a9 Completed\n\n\u00a9 Mobile Number Verified Qualification Details *\n\n\u00a9 Verity Your Email id\nExam Center Detalis: Completed\n\nContact Detail \u00a9 completed\nBF into@jscocidce sein\n\n9\nMemoer Secretary Admission Commictes for Professional Courses Admiasion Sullding. Ne Lisraryl. Final Submit Completed\nColage of Engg Camsus Anmecatac- 380018 nia\n\nUpload Documents/images \u00a9 completed\n\nPay Registration Fee O incomplete\n\n \n\nYour Registration Process has not been completed yet.\nFor completion, kindly pay the required Fee. Only after payment of required Fee your Application will be considered for further processing.\n\n \n\n \n\nContent Owned and Maintained by COMMISSIONERATE OF TECHNICAL EDUCATION, GUJARAT STATE\nDesigned. Developed ang Hosted by National Intorma\n\u201cechnology, Government of India\n\nmon | RICEL | Dowe\n\n \n\n \n\nMinistry wf Electronics & In"
+            },
+            {
+                "label": "abandon",
+                "coordinates": [
+                    1999,
+                    414,
+                    2166,
+                    476
+                ],
+                "confidence": 0.48967066407203674,
+                "extracted_text": "\u2018Shwelttying The Admniasion Process"
+            },
+            {
+                "label": "plain text",
+                "coordinates": [
+                    685,
+                    416,
+                    1626,
+                    466
+                ],
+                "confidence": 0.3932590186595917,
+                "extracted_text": "Commissioner of Technical Education, Admission Committee for Professional Courses (ACPC), Gujarat\nACPC Gujarat Diploma to Degree Common Entrance Test 2024 (D2DCET) (UAT Mode)"
+            },
+            {
+                "label": "plain text",
+                "coordinates": [
+                    1881,
+                    531,
+                    2155,
+                    556
+                ],
+                "confidence": 0.2502654492855072,
+                "extracted_text": ""
+            },
+            {
+                "label": "title",
+                "coordinates": [
+                    219,
+                    1414,
+                    1485,
+                    1476
+                ],
+                "confidence": 0.6854673027992249,
+                "extracted_text": "\u00bb Now you will be redirected to the PAYMENT PAGE."
+            },
+            {
+                "label": "figure",
+                "coordinates": [
+                    143,
+                    1442,
+                    2174,
+                    1999
+                ],
+                "confidence": 0.3182048201560974,
+                "extracted_text": "3 INOW YUU Will Ue ICULLCULOU LW Ue EAE INEEINGE FAL.\n\nCommissioner of Technical Education, Admission Committee for Professional Courses (ACPC), Gujarat mms \u2018cinta:\nACPC Gujarat Diploma to Degree Common Entrance Test 2024 (O20CET) (UAT Mode)\n\n  \n   \n   \n \n  \n     \n\n\u2018Simpiitying The Adimusion Process\n\nName: Cid Applicat!\n\n \n\nFee Type-Pay Registration Fee\n\nYou are required to pay an amount of Rs. 350\n\nSelect mode of payment \u2018Through ouisers\n\n \n\n \n\n  \n\ntogyacpeiace ac in\n\nF\n\\damber Sezrecary Azmision Commitee for rotestiona\u2019 Courter Agmission Building. Ne Lisrary D\nColege of gg. Cemous Anmedssed: 3E0CTS India\n\n \n\n10 7226300360"
+            },
+            {
+                "label": "plain text",
+                "coordinates": [
+                    239,
+                    2092,
+                    2051,
+                    2226
+                ],
+                "confidence": 0.6657785773277283,
+                "extracted_text": "Click on PAY REGISTRATION FEE Button and pay the fees via CREDIT\nCARD/ DEBIT CARD/ NETBANKING or any UPI."
+            },
+            {
+                "label": "plain text",
+                "coordinates": [
+                    218,
+                    2259,
+                    2056,
+                    2392
+                ],
+                "confidence": 0.7332581281661987,
+                "extracted_text": "e Registration Process will be completed once the payment process of\nREGISTRATION FEE is completed."
+            },
+            {
+                "label": "figure",
+                "coordinates": [
+                    138,
+                    2426,
+                    2168,
+                    3048
+                ],
+                "confidence": 0.7799326777458191,
+                "extracted_text": "Commissioner of Technical Education, Admission Committee for Professional Courses (ACPC), Gujarat Eownenes aneiis\nACPC Gujarat Diploma to Degree Common Entrance Test 2024 (D2DCET) (UAT Mode)\n\n \n\nName: CK! Applies\n\n\u00a9 View Filled Form\n\n\u2018Step\n\nRegistration Form\n\n\u00a9 View/Edit Pay Registration Fee\n\n\u2018Application Form\nDownload Confirmation Page abaeaaielbiasin\nEmail Confirmation\nExam Center Details\nContact Detail\n\n\u00a9 Mobile Number Verifies\n\nUpload Documents/imager\n\n(\u00a9 Verity Your Email ie\n\n \n\nFinal Submit\n\n \n   \n   \n   \n   \n \n\nPay Registration Fee\n(D tosjacpeidee acon\n\n \n\n\\\u00b0\nVertes Secretary Azmasion Commitee for Professional Courses Agmission Building. Ne Utranyl D\nCotege of Engz. Comsus Anmesabad- 300015 indi\n\nYou have successfully completed the Registration Process, kindly downlaod the confirmation Page,\nPlease note down the Application Number for future references.\n\nApplication Number: 241190900010\n\n \n\n1D re26300360"
+            },
+            {
+                "label": "abandon",
+                "coordinates": [
+                    2129,
+                    3180,
+                    2177,
+                    3215
+                ],
+                "confidence": 0.8504703044891357,
+                "extracted_text": ""
+            }
+        ]
+    },
+    {
+        "page": "page_13.jpg",
+        "content": [
+            {
+                "label": "title",
+                "coordinates": [
+                    660,
+                    120,
+                    1652,
+                    185
+                ],
+                "confidence": 0.7563222050666809,
+                "extracted_text": "wWSMelet sH?21 $12 Uldelela SLULY (ACPC), AVI"
+            },
+            {
+                "label": "abandon",
+                "coordinates": [
+                    1964,
+                    144,
+                    2155,
+                    328
+                ],
+                "confidence": 0.4822586178779602,
+                "extracted_text": ""
+            },
+            {
+                "label": "figure",
+                "coordinates": [
+                    1964,
+                    144,
+                    2155,
+                    328
+                ],
+                "confidence": 0.233908548951149,
+                "extracted_text": ""
+            },
+            {
+                "label": "abandon",
+                "coordinates": [
+                    151,
+                    150,
+                    306,
+                    324
+                ],
+                "confidence": 0.6086801290512085,
+                "extracted_text": "ACPE\u20ac"
+            },
+            {
+                "label": "title",
+                "coordinates": [
+                    592,
+                    209,
+                    1726,
+                    346
+                ],
+                "confidence": 0.6872892379760742,
+                "extracted_text": "Admission Committee for Professional Courses\n(ACPC), Gujarat"
+            },
+            {
+                "label": "figure",
+                "coordinates": [
+                    139,
+                    405,
+                    2176,
+                    1044
+                ],
+                "confidence": 0.9387145638465881,
+                "extracted_text": "ee\n\nDownioas Cont\n\n\u00a9 View/Edit Pay Registration Tee\n\n  \n\n \n\nion fase |\n\nEmail Confirmat\n\n \n\ntne)\n0 Verity Yoor Fmait id\n\nie\n\n   \n\n\u2018Application Progress Stans\nStep\nRegistration Form\n\nApplication Form\n\n     \n    \n\n \n\nMeer aes\n\n\u2018Courses (ACPC), Gujarat\n{crc art lama Degree Common Evan Tos B24 G2DCET UAT oom)\n\nCommissioner of Technical Eoucation. Acknission Commitee for Professional\nm1\n\n \n\n{the confirmation Page.\n\nStatus\n\nOCompletea\n\nCompleted\n\nScompleres\n\n\u00a9 completed\n\nOcomplered\n\nO compleres\n\nOcompteree\n\nOC completed\n\nry\n\nName: CM\n\n \n\naes\n\n \n\nLageut"
+            },
+            {
+                "label": "plain text",
+                "coordinates": [
+                    313,
+                    1084,
+                    1847,
+                    1150
+                ],
+                "confidence": 0.6351462006568909,
+                "extracted_text": "r completion of registration, candidate can download confirmation pag"
+            },
+            {
+                "label": "title",
+                "coordinates": [
+                    173,
+                    1324,
+                    435,
+                    1356
+                ],
+                "confidence": 0.28540998697280884,
+                "extracted_text": "Ce"
+            },
+            {
+                "label": "figure",
+                "coordinates": [
+                    171,
+                    1400,
+                    2157,
+                    1775
+                ],
+                "confidence": 0.6356098055839539,
+                "extracted_text": "Candidate Information Available Services:\n\nName: JACPC\nLast Visit: NA\n\n&\n\n\u2018Manage Application Form Submission View/Download Admit Card Rank/Score Card"
+            },
+            {
+                "label": "plain text",
+                "coordinates": [
+                    215,
+                    1820,
+                    2056,
+                    1952
+                ],
+                "confidence": 0.9051259756088257,
+                "extracted_text": "e As decided you can view/download the admit card (hall ticket), which is\ncompulsory for entry in DDCET examination hall."
+            },
+            {
+                "label": "plain text",
+                "coordinates": [
+                    225,
+                    1987,
+                    1901,
+                    2055
+                ],
+                "confidence": 0.8547462821006775,
+                "extracted_text": "\u00bb After declaration of result of DDCET, you can download Score Card also."
+            },
+            {
+                "label": "plain text",
+                "coordinates": [
+                    259,
+                    2381,
+                    2045,
+                    2671
+                ],
+                "confidence": 0.8659376502037048,
+                "extracted_text": ". Keep Application Number, User Id and Password at\nsafe place. These details are required many times\nduring admission Process"
+            },
+            {
+                "label": "abandon",
+                "coordinates": [
+                    2130,
+                    3179,
+                    2177,
+                    3215
+                ],
+                "confidence": 0.8316370248794556,
+                "extracted_text": ""
+            }
+        ]
+    },
+    {
+        "page": "page_14.jpg",
+        "content": [
+            {
+                "label": "abandon",
+                "coordinates": [
+                    1961,
+                    141,
+                    2156,
+                    331
+                ],
+                "confidence": 0.3230970799922943,
+                "extracted_text": ""
+            },
+            {
+                "label": "abandon",
+                "coordinates": [
+                    149,
+                    149,
+                    307,
+                    327
+                ],
+                "confidence": 0.24413500726222992,
+                "extracted_text": ""
+            },
+            {
+                "label": "figure",
+                "coordinates": [
+                    131,
+                    194,
+                    2107,
+                    1993
+                ],
+                "confidence": 0.8688307404518127,
+                "extracted_text": "Admission Committee for Professional Courses\nACPE (ACPC), Gujarat\n\n \n\n \n\nwww.gujacpc.nic.in\n\n \n\ney Tema litt -mend\n\nDDCET a. i Registration Form\nRegistration\n\nProcess Uploading Photo, Signature,\nBirth Certificate and Marksheet\n\nOnline Payment of DDCET\nRegistration Fees Rs. 250/-\n\n   \n\n~4@ ADMISSION COMMITTEE\nFOR PROFESSIONAL eee Mem Carleen\n\nACP COURSES (ACPC) Download Admit-card\n\n(GUJARAT STATE)"
+            },
+            {
+                "label": "abandon",
+                "coordinates": [
+                    2129,
+                    3178,
+                    2179,
+                    3217
+                ],
+                "confidence": 0.7475069165229797,
+                "extracted_text": "14"
+            }
+        ]
+    },
+    {
+        "page": "page_15.jpg",
+        "content": [
+            {
+                "label": "abandon",
+                "coordinates": [
+                    122,
+                    91,
+                    2216,
+                    354
+                ],
+                "confidence": 0.31654441356658936,
+                "extracted_text": "\u2014\u2014\u00a5\n\nA\n\ncPe\u20ac\n\nwWSHelet SHN2l Sle WiSeleta SLUlY (ACPC), A\u00b082Id\n\nAdmission Committee for Professional Courses\n(ACPC), Gujarat"
+            },
+            {
+                "label": "plain text",
+                "coordinates": [
+                    586,
+                    117,
+                    1724,
+                    348
+                ],
+                "confidence": 0.2671050727367401,
+                "extracted_text": "wWSHelet SHN2l Sle WiSeleta SLUlY (ACPC), A\u00b082Id\n\nAdmission Committee for Professional Courses\n(ACPC), Gujarat"
+            },
+            {
+                "label": "abandon",
+                "coordinates": [
+                    1960,
+                    140,
+                    2158,
+                    333
+                ],
+                "confidence": 0.20655256509780884,
+                "extracted_text": ""
+            },
+            {
+                "label": "figure",
+                "coordinates": [
+                    171,
+                    279,
+                    2172,
+                    2636
+                ],
+                "confidence": 0.5156176090240479,
+                "extracted_text": "ALES (ACPC), Gujarat \u2014\n\n) to D Admission Registration Step After DDCET\n\nFOR PROFESSIONAL\nCOURSES (ACPC\n(PG pene\n\n(GUJARAT STATE)\n\n] f ADMISSION COMMITTEE\nA\n\n   \n\neye ae\n. . Registration Form\nRegistration mam\nProcess\n\nmn\n5 Uploading the required\n3) documents\n\nOnline Payment of\nRegistration Fees\n\nEle Re i\nRegistration\n\nWWW.gujacpc.nic.in"
+            },
+            {
+                "label": "figure",
+                "coordinates": [
+                    169,
+                    501,
+                    2166,
+                    2537
+                ],
+                "confidence": 0.2518012821674347,
+                "extracted_text": ") to D Admission Registration Step After DDCET\n\n \n\n\u201cCl \u2122 A I ]\nSSION |\n\nmn ww I wi ,\nROFESSIQO}\n\n. mae 4!\n\ncre fan r\n\n| _ \u2014 My pat\n\n\u00ae \u00a3 et\n\n  \n\n \n\nTATE)\n\n(GUJARAT S\n\neye ae\naCe eee ae) aa\n\nRegistration\n\nProcess Uploading the required\n\n(oerat tne)"
+            },
+            {
+                "label": "figure_caption",
+                "coordinates": [
+                    136,
+                    546,
+                    1538,
+                    622
+                ],
+                "confidence": 0.4282817542552948,
+                "extracted_text": "D to D Admission Registration Step After DDCET"
+            },
+            {
+                "label": "abandon",
+                "coordinates": [
+                    2128,
+                    3177,
+                    2178,
+                    3217
+                ],
+                "confidence": 0.6740027070045471,
+                "extracted_text": "15"
+            }
+        ]
+    },
+    {
+        "page": "page_16.jpg",
+        "content": [
+            {
+                "label": "abandon",
+                "coordinates": [
+                    126,
+                    95,
+                    2177,
+                    355
+                ],
+                "confidence": 0.2389567494392395,
+                "extracted_text": ")\n\nA\n\n~\n\n||\ncP\n\nwWSHelet SHN2l Sle WiSeleta SLUlY (ACPC), A\u00b082Id\n\nAdmission Committee for Professional Courses\n(ACPC), Gujarat"
+            },
+            {
+                "label": "abandon",
+                "coordinates": [
+                    1961,
+                    141,
+                    2158,
+                    333
+                ],
+                "confidence": 0.3014639616012573,
+                "extracted_text": ""
+            },
+            {
+                "label": "abandon",
+                "coordinates": [
+                    149,
+                    149,
+                    307,
+                    327
+                ],
+                "confidence": 0.3233970105648041,
+                "extracted_text": ""
+            },
+            {
+                "label": "plain text",
+                "coordinates": [
+                    593,
+                    209,
+                    1728,
+                    346
+                ],
+                "confidence": 0.21129238605499268,
+                "extracted_text": "Admission Committee for Professional Courses\n(ACPC), Gujarat"
+            },
+            {
+                "label": "title",
+                "coordinates": [
+                    136,
+                    543,
+                    2046,
+                    624
+                ],
+                "confidence": 0.6511306762695312,
+                "extracted_text": "D to D Admission Merit and Choice Filling Step After Registration"
+            },
+            {
+                "label": "figure",
+                "coordinates": [
+                    146,
+                    650,
+                    2166,
+                    2394
+                ],
+                "confidence": 0.43907487392425537,
+                "extracted_text": "First round of choice filling will be Mock round,\nbased on analysis given candidate should\nmodify their choices or add more choices if not\nable to secure admission in actual round.\n\nAfter choice filling for actual round, ACPC will\nallot admission on basis of merit and choices\nPV mete ele\n\n \n\n \n\nMerit Declaration,\nChoice Filling\nand\n\nAdmission\nConfirmation"
+            },
+            {
+                "label": "plain text",
+                "coordinates": [
+                    277,
+                    764,
+                    998,
+                    966
+                ],
+                "confidence": 0.2709742784500122,
+                "extracted_text": "After registration process, ACPC will declare\nmerit list of all eligible candidates. Candidate\nsee CeM LM UCel Mal allele Re 1 0) aL\nmentioned in registration details."
+            },
+            {
+                "label": "abandon",
+                "coordinates": [
+                    2129,
+                    3178,
+                    2179,
+                    3216
+                ],
+                "confidence": 0.7951605916023254,
+                "extracted_text": ""
+            }
+        ]
+    }
+]

@@ -1,0 +1,150 @@
+[
+    {
+        "page": "page_1.jpg",
+        "content": [
+            {
+                "label": "abandon",
+                "coordinates": [
+                    831,
+                    133,
+                    1547,
+                    178
+                ],
+                "confidence": 0.6288122534751892,
+                "extracted_text": "Transaction charges for Online Payment"
+            },
+            {
+                "label": "title",
+                "coordinates": [
+                    831,
+                    133,
+                    1547,
+                    178
+                ],
+                "confidence": 0.37893444299697876,
+                "extracted_text": "Transaction charges for Online Payment"
+            },
+            {
+                "label": "plain text",
+                "coordinates": [
+                    361,
+                    223,
+                    1278,
+                    268
+                ],
+                "confidence": 0.8275821208953857,
+                "extracted_text": "Transaction fees will be borne by the candidates are as under :"
+            },
+            {
+                "label": "table",
+                "coordinates": [
+                    342,
+                    305,
+                    1974,
+                    788
+                ],
+                "confidence": 0.9801310300827026,
+                "extracted_text": "Transaction Fees\n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n1 Net Banking Facility Fee Category A Banks : SBI, HDFC, AXIS and ICICI\nRs. 10/- per transaction processed\nCategory B Banks : All other Banks\nRs. 5/- per transaction processed\n\n2 Credit Card Fee 0.80% of Customer Payment Amount\n\n(Visa, MasterCard, Rupay)\n\n3 Debit Card Fee (Visa, MasterCard) | 0.90% of Customer Payment Amount\n\n4 Debit Card Fee (Rupay) NIL\n\n5 UPI NIL"
+            },
+            {
+                "label": "title",
+                "coordinates": [
+                    358,
+                    822,
+                    669,
+                    865
+                ],
+                "confidence": 0.8534999489784241,
+                "extracted_text": "Terms of Payment:"
+            },
+            {
+                "label": "plain text",
+                "coordinates": [
+                    490,
+                    900,
+                    1653,
+                    987
+                ],
+                "confidence": 0.9378364086151123,
+                "extracted_text": "(a) GST and other tax / taxes if any applicable, will be charged in addition.\n(b) All transaction fees will be subject to a minimum of Rs.5/- per Transaction."
+            },
+            {
+                "label": "title",
+                "coordinates": [
+                    362,
+                    1029,
+                    1047,
+                    1079
+                ],
+                "confidence": 0.7923495173454285,
+                "extracted_text": "Terms and Conditions, Privacy Policy:"
+            },
+            {
+                "label": "plain text",
+                "coordinates": [
+                    360,
+                    1092,
+                    2020,
+                    1345
+                ],
+                "confidence": 0.978642463684082,
+                "extracted_text": "The Admission Committee for Professional Courses (ACPC) and the institutes functioning under ACPC does\nnot warrant, and hereby disclaims any warranties, either express or implied, with respect to the accuracy,\nadequacy or completeness of website www. gujacpc.nic.in, www.gujdiploma.nic.in, information obtained from a\nSite, or link to a Site. ACPC and the institutes functioning under ACPC does not warrant that Sites will operate\nin an uninterrupted or error-free manner or that Sites are free of viruses or other harmful components. Use of\ninformation obtained from or through these Sites is at your own risk."
+            },
+            {
+                "label": "plain text",
+                "coordinates": [
+                    359,
+                    1383,
+                    2018,
+                    1977
+                ],
+                "confidence": 0.986914336681366,
+                "extracted_text": "YOU AGREE THAT ACPC and the institutes functioning under ACPC WILL NOT BE LIABLE TO YOU\nFOR ANY LOSS OR DAMAGES, EITHER ACTUAL OR CONSEQUENTIAL, ARISING OUT OF OR\nRELATING TO THESE TERMS, OR TO YOUR (OR ANY THIRD PARTY'S) USE OR INABILITY TO\nUSE A SITE, OR TO YOUR PLACEMENT OF CONTENT ON A SITE, OR TO YOUR RELIANCE UPON\nINFORMATION OBTAINED FROM OR THROUGH A SITE. IN PARTICULAR, ACPC and the institutes\nfunctioning under ACPC WILL HAVE NO LIABILTY FOR ANY CONSEQUENTIAL, INDIRECT,\nPUNITIVE, SPECIAL OR INCIDENTAL DAMAGES, WHETHER FORESEEABLE OR\nUNFORESEEABLE, (INCLUDING, BUT NOT LIMITED TO, CLAIMS FOR DEFAMATION, ERRORS,\nLOSS OF DATA, OR INTERRUPTION IN AVAILABILITY OF DATA), ARISING OUT OF OR\nRELATING TO THESE TERMS, YOUR USE OR INABILITY TO USE A SITE, OR ANY PURCHASES ON\nTHIS SITE, OR YOUR PLACEMENT OF CONTENT ON A SITE, OR TO YOUR RELIANCE UPON\nINFORMATION OBTAINED FROM OR THROUGH A SITE, WHETHER BASED IN CONTRACT, TORT,\nSTATUTORY OR OTHER LAW, EXCEPT ONLY IN THE CASE OF DEATH OR PERSONAL INJURY\nWHERE AND ONLY TO THE EXTENT THAT APPLICABLE LAW REQUIRES SUCH LIABILITY."
+            },
+            {
+                "label": "plain text",
+                "coordinates": [
+                    362,
+                    2015,
+                    2019,
+                    2186
+                ],
+                "confidence": 0.9700672626495361,
+                "extracted_text": "ACPC and the institutes functioning under ACPC makes no representation regarding your ability to transmit and\nreceive information from or through the Sites and you agree and acknowledge that your ability to access the\nSites may be impaired. ACPC and the institutes functioning under ACPC disclaim any and all liability resulting\nfrom or related to such events."
+            },
+            {
+                "label": "title",
+                "coordinates": [
+                    360,
+                    2230,
+                    907,
+                    2279
+                ],
+                "confidence": 0.8782868981361389,
+                "extracted_text": "Refund & Cancellation Policy:"
+            },
+            {
+                "label": "plain text",
+                "coordinates": [
+                    370,
+                    2290,
+                    2023,
+                    2674
+                ],
+                "confidence": 0.8551053404808044,
+                "extracted_text": "Transaction initiated by anyone, if, does not result into a Success Transaction and Success Transaction\nreceipt is not viewed by the transaction performer then the Transaction will not be considered as a\ncomplete transaction. In such scenario, Transaction amount debited from your Bank/Card account will be\nrefunded by your Bank/Card issuing Bank within 3-4 days. In case transaction performer does not view the\nSuccess Receipt then he/she needs to re-initiate the transaction or pay through other modes.\n\nIn the event that incorrect details are entered by the Transaction performer ACPC or institutes under\nACPC will not have liability thereof.\n\nPayment done for online Registration Fee is totally non-refundable. Chargeback is not possible for\nRegistration Fee in any condition."
+            },
+            {
+                "label": "plain text",
+                "coordinates": [
+                    370,
+                    2290,
+                    2022,
+                    2502
+                ],
+                "confidence": 0.21771663427352905,
+                "extracted_text": "Transaction initiated by anyone, if, does not result into a Success Transaction and Success Transaction\nreceipt is not viewed by the transaction performer then the Transaction will not be considered as a\ncomplete transaction. In such scenario, Transaction amount debited from your Bank/Card account will be\nrefunded by your Bank/Card issuing Bank within 3-4 days. In case transaction performer does not view the\nSuccess Receipt then he/she needs to re-initiate the transaction or pay through other modes."
+            }
+        ]
+    }
+]

@@ -1,0 +1,341 @@
+[
+    {
+        "page": "page_1.jpg",
+        "content": [
+            {
+                "label": "plain text",
+                "coordinates": [
+                    1405,
+                    281,
+                    2109,
+                    863
+                ],
+                "confidence": 0.9160081744194031,
+                "extracted_text": "Regarding the provision _ of\nallotment _of admissions on the\nbasis of Diploma to Degree\nCommon Entrance Test (DDCET) in\n\nthe course in second year (3\nsemester) in Engineering and\nPharmacy on the basis of Diploma\nto Degree Common Entrance Test\n(DDCET)"
+            },
+            {
+                "label": "plain text",
+                "coordinates": [
+                    858,
+                    936,
+                    1526,
+                    1254
+                ],
+                "confidence": 0.9493786096572876,
+                "extracted_text": "Government of Gujarat\nDepartment of Education\nResolution No.: PVS/102020/61/S\nSecretariat, Gandhinagar\nDt. 23/08/2023."
+            },
+            {
+                "label": "title",
+                "coordinates": [
+                    277,
+                    1267,
+                    397,
+                    1316
+                ],
+                "confidence": 0.7232881188392639,
+                "extracted_text": "Read:"
+            },
+            {
+                "label": "plain text",
+                "coordinates": [
+                    275,
+                    1328,
+                    2008,
+                    1582
+                ],
+                "confidence": 0.5631179213523865,
+                "extracted_text": "1. Letter of office of Commissioner, Technical Education, Gandhinagar dated 14/09/2022\nLetter No:DTE/AK/Admission Rules/C (2)/2022-23/8027\n\n2. Report of Admission Process Committee for Diploma to Degree Engineering/Pharmacy\n(Second Year (Third Semester)) dated 23/08/2022"
+            },
+            {
+                "label": "title",
+                "coordinates": [
+                    277,
+                    1657,
+                    562,
+                    1711
+                ],
+                "confidence": 0.7338802814483643,
+                "extracted_text": "Introduction :-"
+            },
+            {
+                "label": "plain text",
+                "coordinates": [
+                    277,
+                    1657,
+                    562,
+                    1711
+                ],
+                "confidence": 0.21560558676719666,
+                "extracted_text": "Introduction :-"
+            },
+            {
+                "label": "plain text",
+                "coordinates": [
+                    277,
+                    1786,
+                    2106,
+                    2214
+                ],
+                "confidence": 0.9799690842628479,
+                "extracted_text": "The Committee has been formed by the Government to simplify the admission process for\nDiploma to Degree Engineering/Pharmacy second year (third semester) and also to include\nstudents who have passed Diploma from previous year in the admission process. According to\nwhose recommendations, the matter of allotting admission on the basis of common entrance\ntest was under the active consideration of Government for the purpose that\nengineering/pharmacy students in diploma can easily get admission in second year (third\nsemester) of degree engineering/pharmacy."
+            },
+            {
+                "label": "title",
+                "coordinates": [
+                    276,
+                    2383,
+                    516,
+                    2433
+                ],
+                "confidence": 0.890225350856781,
+                "extracted_text": "Resolution :"
+            },
+            {
+                "label": "plain text",
+                "coordinates": [
+                    276,
+                    2447,
+                    2107,
+                    2687
+                ],
+                "confidence": 0.9700078964233398,
+                "extracted_text": "After consideration it is hereby decided to allot admission on the basis of Diploma to Degree\nCommon Entrance Test (DDCET) to eligible students for the second year admission process of\nEngineering and Pharmacy in various State Universities from the admission year 2024-25. The\nsuggested procedure for Diploma to Degree Common Entrance Test (DDCET) will be as follows."
+            }
+        ]
+    },
+    {
+        "page": "page_2.jpg",
+        "content": [
+            {
+                "label": "title",
+                "coordinates": [
+                    302,
+                    414,
+                    1647,
+                    467
+                ],
+                "confidence": 0.283913791179657,
+                "extracted_text": "(A) Diploma to Degree Common Entrance Test (DDCET) Committee"
+            },
+            {
+                "label": "plain text",
+                "coordinates": [
+                    359,
+                    480,
+                    2106,
+                    598
+                ],
+                "confidence": 0.6046174764633179,
+                "extracted_text": "DDCET Committee is constituted to coordinate all day-to-day matters related to Diploma\nto Degree Common Entrance Test (DDCET). Which will be as follows."
+            },
+            {
+                "label": "plain text",
+                "coordinates": [
+                    416,
+                    610,
+                    1758,
+                    992
+                ],
+                "confidence": 0.4980945885181427,
+                "extracted_text": "1. Commissioner Technical Education (Chairman of Committee)\n\n2. Joint Director of Technical Education ( Member Secretary (GETERS))\n3. Member Secretary, Admission Committee -ACPC\n\n4. Registrar, Gujarat Technological University\n\n5. Officer on Special Duty - ACPC\n\n6. Officer on Special Duty \u2014 ACPC"
+            },
+            {
+                "label": "title",
+                "coordinates": [
+                    344,
+                    1068,
+                    1015,
+                    1124
+                ],
+                "confidence": 0.8151306509971619,
+                "extracted_text": "(B) Nodal Agency for DDCET Exam"
+            },
+            {
+                "label": "plain text",
+                "coordinates": [
+                    483,
+                    1136,
+                    2107,
+                    1861
+                ],
+                "confidence": 0.9536339044570923,
+                "extracted_text": "Gujarat Technological University will be nodal agency along with for smooth\nconduction of DDCET examination. The University will have to work in\ncoordination of the DDCET Committee.\n\nRegistration for the DDCET examination shall be done on-line. And the result and\nDDCET Rank of the current year will have to be declared online.\n\nDDCET exam will be valid only for admission for that year. It will also have to be\ngiven first priority in processing the vacant seats after the online round.\n\nDDCET exam fee for candidates will be Rs.250/-.\n\nRegistration Fees for admission process will be separate.\n\nDDCET exam will have to be conducted offline \u2014 Paper Based Test (PBT) at various\ncenters in the state."
+            },
+            {
+                "label": "title",
+                "coordinates": [
+                    345,
+                    1936,
+                    875,
+                    1989
+                ],
+                "confidence": 0.8322444558143616,
+                "extracted_text": "(C) DDCET Exam Structure:"
+            },
+            {
+                "label": "plain text",
+                "coordinates": [
+                    482,
+                    2006,
+                    2107,
+                    2528
+                ],
+                "confidence": 0.9278729557991028,
+                "extracted_text": "DDCET registration process has to be done in the month of February of\ncorresponding academic year.\n\nThe examination shall be taken on Sunday of the month of March of the\ncorresponding academic year. However, the decision of Chairman of the\ncommittee will be final on the said matter.\n\nNodal Agency, in consultation with DDCET Committee, will finalize the number\nand location of examination centers.\n\nThe structure of the said examination will be as follows."
+            }
+        ]
+    },
+    {
+        "page": "page_3.jpg",
+        "content": [
+            {
+                "label": "table",
+                "coordinates": [
+                    309,
+                    339,
+                    2072,
+                    1664
+                ],
+                "confidence": 0.9732105731964111,
+                "extracted_text": "Time\nDuration in\nminutes\n\nProgram Paper\nNumber Paper No. of question\nBasi f Sci\nasics 6 clence BH 100\n\nand Engineering\nEngineering Aptitude Test\nand (Mathematics 50 100\nTechnology and Soft Skill)\n\n120\n(Two Hours)\n\nPharmacy Aptitude Test 50 120\nBPH 02 (Soft Skill) (Two Hours)"
+            },
+            {
+                "label": "plain text",
+                "coordinates": [
+                    490,
+                    1726,
+                    2106,
+                    2047
+                ],
+                "confidence": 0.8057874441146851,
+                "extracted_text": "Two marks for each correct answer shall be awarded. For each wrong answer and\nmore than one attempted answer minus 0.5 (half) mark shall be added on\nobtained marks. Unattempt answers will have zero marks. Based on final obtained\nmarks, the merit list will be prepared and corresponding rank shall be prepared.\nThis will be ease to prepare final merit rank."
+            },
+            {
+                "label": "plain text",
+                "coordinates": [
+                    491,
+                    2058,
+                    2105,
+                    2179
+                ],
+                "confidence": 0.7486824989318848,
+                "extracted_text": "e Students having equal marks for merit rank of DDCET in the said examination will\nbe given priority as follows. (Key of Merit)"
+            },
+            {
+                "label": "plain text",
+                "coordinates": [
+                    621,
+                    2190,
+                    2111,
+                    2704
+                ],
+                "confidence": 0.8228104114532471,
+                "extracted_text": "oO 0 0\n\nMarks obtained in BE 01 for Engineering and BPH 01 for Pharmacy\n\nMarks obtained in BE 02 for Engineering and BPH 02 for Pharmacy\n\nLowest deduction marks (Negative marks) in the said examination\n\nBE 01 for Engineering and BPH 01 for Pharmacy have the lowest cut off\nmarks (Negative marks).\n\nBE 02 for Engineering and BPH 02 for Pharmacy have the lowest cut off\nmarks (Negative marks).\n\nDate of Birth"
+            }
+        ]
+    },
+    {
+        "page": "page_4.jpg",
+        "content": [
+            {
+                "label": "plain text",
+                "coordinates": [
+                    483,
+                    283,
+                    2104,
+                    605
+                ],
+                "confidence": 0.824550211429596,
+                "extracted_text": "e Syllabus and sample question bank of DDCET for the admission year 2024-25 will\nbe uploaded by the said committee on the website of the admission committee\nby the first week of November, 2023.\n\ne Present method shall be followed for all subsequent years unless otherwise\nchanged."
+            },
+            {
+                "label": "title",
+                "coordinates": [
+                    486,
+                    679,
+                    1419,
+                    736
+                ],
+                "confidence": 0.8742510676383972,
+                "extracted_text": "(D) Candidates qualified for DDCET Examination"
+            },
+            {
+                "label": "plain text",
+                "coordinates": [
+                    551,
+                    810,
+                    2106,
+                    1521
+                ],
+                "confidence": 0.8941546082496643,
+                "extracted_text": "e Students who have passed in Diploma from a recognized Board/University in the\nstate of Gujarat in that admission year as well as students who have passed in\nDiploma from a recognized Board/University across the country for 05% seats\nin Government Institutions (Candidates appearing in the last semester will be\neligible.)\n\n\u00a2 Candidates who have passed Diploma from a recognized Board/University in the\nState of Gujarat in the previous year and seeking admission in Degree\n\ne Students having Bachelor of Science and Diploma Vocational from a recognized\nBoard/University in Gujarat state as per provision of AICTE\n\ne Students who have passed in Diploma from Board/University from outside State\nas per existing rules."
+            },
+            {
+                "label": "plain text",
+                "coordinates": [
+                    275,
+                    1533,
+                    2102,
+                    1648
+                ],
+                "confidence": 0.8599499464035034,
+                "extracted_text": "Further, regarding admission, action will have to be taken as per the admission rules of the\nGovernment from time to time."
+            },
+            {
+                "label": "plain text",
+                "coordinates": [
+                    276,
+                    1685,
+                    2102,
+                    1801
+                ],
+                "confidence": 0.9207682013511658,
+                "extracted_text": "These orders are issued in accordance with the approval of the Government dated 10.08.2023\non the file of the same number of the department."
+            },
+            {
+                "label": "plain text",
+                "coordinates": [
+                    276,
+                    1839,
+                    1427,
+                    1894
+                ],
+                "confidence": 0.8888922929763794,
+                "extracted_text": "By order and in the name of Hon. Governor of Gujarat State."
+            },
+            {
+                "label": "plain text",
+                "coordinates": [
+                    1663,
+                    1933,
+                    2107,
+                    2185
+                ],
+                "confidence": 0.8684787154197693,
+                "extracted_text": "-/SD\n\nMaulika Shah\n\nDeputy Secretary\nEducation Department"
+            },
+            {
+                "label": "plain text",
+                "coordinates": [
+                    277,
+                    2198,
+                    452,
+                    2244
+                ],
+                "confidence": 0.28988420963287354,
+                "extracted_text": "Copy to :-"
+            },
+            {
+                "label": "plain text",
+                "coordinates": [
+                    274,
+                    2244,
+                    2028,
+                    2768
+                ],
+                "confidence": 0.8919379711151123,
+                "extracted_text": ". Principal Secretary, Hon.Governor, Raj Bhavan Sector 20 Gandhinagar (by letter)\n. Additional Chief Secretary, Hon. Chief Minister's Office, Swarnim Sankul - 01 Gandhinagar\n. Personal Secretary, Hon'ble Minister (Education Department) Swarnim Sankul-1 Secretariat\n\nGandhinagar\n\n. The Principal Secretary, Higher and Technical Education, Gandhinagar\n\n. Office of the Commissioner Technical Education, Gandhinagar\n\n. Joint Director (Academic Branch), Technical Education, Director Technical Education Gandhinagar\n. Member Secretary Admission Committee for Professional Courses Ahmedabad\n\n. Vice - Chancellor and Registrar to all Universities (through Office of Commissioner Technical\n\nEducation, Gandhinagar)"
+            }
+        ]
+    }
+]
