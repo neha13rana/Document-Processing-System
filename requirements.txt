@@ -1,4 +1,0 @@
-pdf2image
-opencv-python
-pytesseract
-yolov5  # Replace with the YOLO library mentioned in the original repo
