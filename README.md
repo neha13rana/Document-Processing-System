@@ -1,6 +1,6 @@
 # Document Processing System
 
-The **Document Processing System** is a Python-based project designed to process PDF documents by detecting layout elements, extracting text, and generating structured outputs. It is tailored for use cases such as invoice processing, research paper analysis, and document digitization.
+The **Document Processing System** is a Python-based project designed to process PDF documents by detecting layout elements, extracting text, and generating structured outputs. It is tailored for use cases such as research paper analysis, and document digitization.
 
 ## Features
 
@@ -12,7 +12,6 @@ The **Document Processing System** is a Python-based project designed to process
 
 ## Use Cases
 
-- **Invoice Processing**: Extract details like invoice number, date, total due, and line items for automation.
 - **Research Document Analysis**: Extract titles, abstracts, figures, and tables for indexing or research purposes.
 - **Digitization of Documents**: Convert scanned PDFs into machine-readable formats.
 
