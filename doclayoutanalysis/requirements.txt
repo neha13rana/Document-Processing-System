@@ -5,3 +5,4 @@ Pillow
 doclayout-yolo
 huggingface_hub
 torch
+streamlit
