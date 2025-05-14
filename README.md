@@ -85,7 +85,7 @@ doclayoutanalysis/
 ├── venv/                          # Virtual environment for Python dependencies
 ├── new.py                         # Script for processing a single PDF with text extraction  
 ├── process_directory_pdfs.py      # Script for processing all PDFs in a directory
-├── process_pdf_with_text_extraction.py  # Experimental or new script
+├── process_pdf_with_text_extraction.py  # Experimental new script
 ├── requirements.txt               # List of all Python dependencies
 ├── setup.sh                       # Shell script for setting up the environment
 └── README.md                      # Project documentation
