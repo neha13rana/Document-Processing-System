@@ -44,11 +44,8 @@ def detect_and_extract_text(model, image_path, class_mapping, conf=0.2, imgsz=10
     # Prepare results for JSON
     structured_content = []
     for box in det_res[0].boxes:
-        # x_min, y_min, x_max, y_max = map(int, box.xyxy)  # Bounding box coordinates
-        # ...existing code...
         x_min, y_min, x_max, y_max = map(int, box.xyxy[0].tolist())  # # Bounding box coordinates
         print("box.xyxy:", box.xyxy)
-# ...existing code...
         label_index = int(box.cls)  # Class label index
         confidence = float(box.conf)  # Confidence score
 
@@ -108,15 +105,14 @@ def process_pdf(pdf_path, model_path, output_folder, class_mapping, dpi=200, con
 # Step 7: Entry Point
 if __name__ == "__main__":
     # Paths
-    pdf_path = "/workspaces/Document-Processing-System/doclayoutanalysis/inputs/2024020622.pdf"  # Replace with your PDF file
-    # model_path = "path/to/your/yolo_model.pt" 
+    pdf_path = "/workspaces/Document-Processing-System/doclayoutanalysis/inputs/2024020622.pdf"  
     model_path = hf_hub_download(
         repo_id="juliozhao/DocLayout-YOLO-DocStructBench",
         filename="doclayout_yolo_docstructbench_imgsz1024.pt"
-    )  # Replace with your YOLO model weights
+    )  
     output_folder = "./output_jsons"           # Output folder for JSON results
 
-    # Class mapping (update with your YOLO class labels)
+    # Class mapping 
     class_mapping = {
         0: 'title', 
         1: 'plain text',
