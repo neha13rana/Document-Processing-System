@@ -34,8 +34,6 @@ def annotate_and_save_image(image, annotations, output_path):
         x_min, y_min, x_max, y_max = annotation["coordinates"]
         label = annotation["label"]
         confidence = annotation["confidence"]
-
-        # Use a consistent bounding box color (e.g., green)
         color = (0, 255, 0)
 
         # Draw bounding box
@@ -150,11 +148,11 @@ def process_directory(directory, model_path, output_folder, class_mapping, dpi=2
 # Step 10: Entry Point
 if __name__ == "__main__":
     # Paths
-    input_directory = "/workspaces/Document-Processing-System/doclayoutanalysis/inputs"  # Replace with your directory path
+    input_directory = "/workspaces/Document-Processing-System/doclayoutanalysis/inputs"  
     model_path = hf_hub_download(
         repo_id="juliozhao/DocLayout-YOLO-DocStructBench",
         filename="doclayout_yolo_docstructbench_imgsz1024.pt"
-    )  # Replace with your YOLO model weights
+    )  
     output_folder = "./output_directory"  # Output folder for all results
 
     # Class mapping
